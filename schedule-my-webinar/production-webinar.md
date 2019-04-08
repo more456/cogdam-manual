@@ -1,7 +1,5 @@
 # Production webinar
 
-
-
  Step 1 : In production webinar we can schedule webinar now or later
 
 ![](../.gitbook/assets/schedule_now.PNG)

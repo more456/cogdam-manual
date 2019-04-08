@@ -2,7 +2,7 @@
 
 This tab provides three steps to start your webinar
 
-Step 1 : Choose type of webinar any type of webinar
+Step 1 : Choose type of webinar test or production
 
 ![Select test type of webinar](../.gitbook/assets/step-_webinar.PNG)
 
