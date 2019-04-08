@@ -42,5 +42,6 @@
   * [Inactive Users](cogdam-admin-help-manual/untitled/inactive-users.md)
 * [Access management](cogdam-admin-help-manual/access-management/README.md)
   * [User management](cogdam-admin-help-manual/access-management/user-management.md)
+  * [Roll Management](cogdam-admin-help-manual/access-management/roll-management.md)
   * [Group Management](cogdam-admin-help-manual/access-management/group-management.md)
 
