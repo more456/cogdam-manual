@@ -27,6 +27,7 @@
   * [Landing Page settings](cogdam-admin-help-manual/untitled/landing-page-settings.md)
   * [Channel Management](cogdam-admin-help-manual/untitled/channel-management/README.md)
     * [Channel Dashboard](cogdam-admin-help-manual/untitled/channel-management/untitled-1.md)
+    * [Create Sub-channel](cogdam-admin-help-manual/untitled/channel-management/create-sub-channel.md)
     * [Create or Edit  Channel](cogdam-admin-help-manual/untitled/channel-management/edit-or-delete-channel.md)
   * [Flagged Media](cogdam-admin-help-manual/untitled/flagged-media.md)
   * [Flagged Comments](cogdam-admin-help-manual/untitled/flagged-comments.md)
