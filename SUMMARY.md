@@ -23,6 +23,11 @@
 ## Cogdam Admin Help Manual
 
 * [Cogdam Admin Help Manual](cogdam-admin-help-manual/untitled/README.md)
+  * [HR](cogdam-admin-help-manual/untitled/hr/README.md)
+    * [Interviewers](cogdam-admin-help-manual/untitled/hr/interviewers.md)
+    * [HR Interview Management](cogdam-admin-help-manual/untitled/hr/hr-interview-management.md)
+    * [Schedule Interview](cogdam-admin-help-manual/untitled/hr/schedule-interview.md)
+    * [Dashboard](cogdam-admin-help-manual/untitled/hr/dashboard.md)
   * [Analytics Dashboard](cogdam-admin-help-manual/untitled/analytics-dashboard.md)
   * [Landing Page settings](cogdam-admin-help-manual/untitled/landing-page-settings.md)
   * [Channel Management](cogdam-admin-help-manual/untitled/channel-management/README.md)
