@@ -43,8 +43,6 @@
   * [Meeting Reports](cogdam-admin-help-manual/untitled/meeting-reports.md)
   * [Audit Access Log](cogdam-admin-help-manual/untitled/untitled.md)
   * [Flag Category Management](cogdam-admin-help-manual/untitled/flag-category-management.md)
-  * [Active Users](cogdam-admin-help-manual/untitled/active-users.md)
-  * [Inactive Users](cogdam-admin-help-manual/untitled/inactive-users.md)
 * [Access management](cogdam-admin-help-manual/access-management/README.md)
   * [User management](cogdam-admin-help-manual/access-management/user-management.md)
   * [Custom Approval Group](cogdam-admin-help-manual/access-management/custom-approval-group.md)
