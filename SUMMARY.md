@@ -18,7 +18,6 @@
   * [My Media](library/my-media.md)
 * [VC](vc/README.md)
   * [Scheduler](vc/scheduler.md)
-  * [Contact](vc/contact.md)
 
 ## Cogdam Admin Help Manual
 
