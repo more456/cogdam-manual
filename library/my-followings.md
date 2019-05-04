@@ -6,7 +6,7 @@ Here you can see the channels that you followed.
 
 We can unfollow channels by clicking on ‘Unfollow’ button.
 
-![](../.gitbook/assets/image%20%2864%29.png)
+![](../.gitbook/assets/image%20%2865%29.png)
 
 
 
