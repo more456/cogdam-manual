@@ -2,9 +2,9 @@
 
 If user enters wrong password or Id then after the notification the forgot password link gets enabled and clicking on that user will get mail on registered id to change the password
 
-![](../.gitbook/assets/image%20%28102%29.png)
+![](../.gitbook/assets/image%20%28103%29.png)
 
-![](../.gitbook/assets/image%20%28108%29.png)
+![](../.gitbook/assets/image%20%28109%29.png)
 
 
 

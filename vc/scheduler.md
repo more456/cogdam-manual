@@ -2,7 +2,7 @@
 
 This window shows Upcoming event list wise and calendar wise.
 
-![](../.gitbook/assets/image%20%2883%29.png)
+![](../.gitbook/assets/image%20%2884%29.png)
 
 ###  **Normal Meeting**
 
@@ -36,7 +36,7 @@ Now turn your ‘VC’ ON
 
 If you want connect with Viewer then you need to turn ON ‘VC’ of Viewer. To turn it ON go to ‘Settings’ and click on ‘VC Control’.
 
-![](../.gitbook/assets/image%20%28101%29.png)
+![](../.gitbook/assets/image%20%28102%29.png)
 
 After turning ‘VC’ ON
 
@@ -44,7 +44,7 @@ After turning ‘VC’ ON
 
 If you want to ask questions in meeting then click on ‘Raise hand’ icon.
 
-![](../.gitbook/assets/image%20%28112%29.png)
+![](../.gitbook/assets/image%20%28113%29.png)
 
 Click on share your screen option icon you can share your screen.
 
@@ -52,7 +52,7 @@ Click on share your screen option icon you can share your screen.
 
 After sending message if you click on ‘Pull to Loby’ or ‘pull to VC’ the message going to send to that particular person only but if you click on ‘Chat’ icon then message will be display in group.
 
-![Image shown with screen-share and chat](../.gitbook/assets/image%20%2891%29.png)
+![Image shown with screen-share and chat](../.gitbook/assets/image%20%2892%29.png)
 
 For editing of meeting info go to ‘Settings’ tab where we can edit meeting info but meeting type is not editable.
 
@@ -62,7 +62,7 @@ For editing of meeting info go to ‘Settings’ tab where we can edit meeting i
 
  **Upload Document**
 
-![](../.gitbook/assets/image%20%28107%29.png)
+![](../.gitbook/assets/image%20%28108%29.png)
 
 After uploading a document
 
@@ -76,7 +76,7 @@ When you click on ‘LMS’ it shows the event info, number of users…etc
 
 User can allocated rooms deciding how many users in one room
 
-![](../.gitbook/assets/image%20%28116%29.png)
+![](../.gitbook/assets/image%20%28117%29.png)
 
 ![](../.gitbook/assets/lms-roo2-2.PNG)
 
@@ -124,7 +124,7 @@ When we select User Role as a’ Guest’ then fill in relevant information and 
 
 After creation of Meeting will be display in notification bar and on calendar.
 
-![](../.gitbook/assets/image%20%28104%29.png)
+![](../.gitbook/assets/image%20%28105%29.png)
 
 Click on that meeting notification on calendar will show you ‘Meeting Details’ and ‘User Details’ tab. where you can see meeting as well as user details. Now click on ‘Join’ button to join meeting
 
@@ -136,7 +136,7 @@ User gets join now popup when he joins with webcam
 Consider Webinar Image as user feed and screenshare also
 {% endhint %}
 
-![](../.gitbook/assets/image%20%28136%29.png)
+![](../.gitbook/assets/image%20%28137%29.png)
 
 When he joins meeting the pop up generates to ask to starte broadcasting 
 
@@ -148,7 +148,7 @@ Click on share icon to share  link
 
 Single user link feed
 
-![](../.gitbook/assets/image%20%2894%29.png)
+![](../.gitbook/assets/image%20%2895%29.png)
 
 Single user screenshare feed
 
@@ -156,7 +156,7 @@ Single user screenshare feed
 
 Public link view feed
 
-![](../.gitbook/assets/image%20%2899%29.png)
+![](../.gitbook/assets/image%20%28100%29.png)
 
 Public link screenshare feed
 
