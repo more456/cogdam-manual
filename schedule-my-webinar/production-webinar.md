@@ -2,27 +2,35 @@
 
  Step 1 : In production webinar we can schedule webinar now or later
 
-![](../.gitbook/assets/schedule_now.PNG)
+In Schedule Now there is no need to select Event Start Time and Event End Time
 
 ![](../.gitbook/assets/schedule_later.PNG)
 
+In Schedule Later user need to select Event Start Time and Event End Time
+
+![](../.gitbook/assets/image%20%2830%29.png)
+
 Step 2 : The owner of webinar can select number of users to be added in webinar and according to that the cost will get updated
 
-![](../.gitbook/assets/users_and_cost.png)
+![](../.gitbook/assets/image%20%2897%29.png)
 
 Step 3 : Owner can select additional options while adding users and that cost will be updated
 
-![](../.gitbook/assets/any_feature_cost.png)
+![](../.gitbook/assets/image%20%2847%29.png)
 
-Step 4 : Have to add Approver's id for approval of webinar
+Step 4 : Have to add Approver's id for approval of webinar. 
 
-![](../.gitbook/assets/approvers_id%20%281%29.png)
+![](../.gitbook/assets/image%20%2838%29.png)
 
-Step 5 : Owner can enable public webcast viewer page by checking in the box and also add password and chat option on clicking on plus icon
+Click on Add Approver Button, enter approver email id & press enter button click on update & close button. Entered email ids are display in dropdown list of Approver Email id.
 
-![](../.gitbook/assets/enable_features.png)
+![](../.gitbook/assets/image%20%2899%29.png)
 
-![](../.gitbook/assets/chat_password.png)
+Step 5 : Owner can enable public webcast viewer page by checking in the box and also add password and chat option on clicking on plus icon \(Choose Features\) and click on next button.
+
+![](../.gitbook/assets/image%20%2841%29.png)
+
+![](../.gitbook/assets/image%20%2873%29.png)
 
 Step 6 : Owner can add users from application one by one or in bulk format and can also add users whom should be kept in CC of webinar mail
 
