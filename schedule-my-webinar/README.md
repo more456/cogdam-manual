@@ -26,7 +26,7 @@ Click on JOIN NOW button to Start Webinar
 
 After Join webinar click on Share button or copy link from setting to share link to public user
 
-![](../.gitbook/assets/image%20%2855%29.png)
+![](../.gitbook/assets/image%20%2856%29.png)
 
 After Share link Display below page to public user
 
@@ -39,5 +39,13 @@ User can FullScreen there page after click on top right fullscreen button
   
 Click on Top Right button displying different button like Reload to refresh page,Low Bandwidth ,Normal Bandwidth,High Bandwidth.
 
-![](../.gitbook/assets/image%20%2871%29.png)
+![](../.gitbook/assets/image%20%2873%29.png)
+
+Click on  3 dots and click on Picture in picture by selecting this you can see webinar by doing your other works like you can nevigate to other browser also.
+
+![](../.gitbook/assets/image%20%2841%29.png)
+
+Picture in Picture Mode Displying like below to exit this mode user can click on Exit Picture in Picture mode
+
+![](../.gitbook/assets/image%20%2872%29.png)
 
