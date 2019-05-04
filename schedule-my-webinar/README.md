@@ -22,7 +22,7 @@ Step 3 : Share your webinar link with users Click on Copy the link gets copied a
 
 For mobile users to see webinar Scan QR code link is provided
 
-![](../.gitbook/assets/image%20%28120%29.png)
+![](../.gitbook/assets/image%20%28123%29.png)
 
 Click on JOIN NOW button to Start Webinar
 
@@ -30,7 +30,7 @@ Click on JOIN NOW button to Start Webinar
 
 After Join webinar click on Share button or copy link from setting to share link to public user
 
-![](../.gitbook/assets/image%20%2872%29.png)
+![](../.gitbook/assets/image%20%2874%29.png)
 
 After Share link Display below page to public user
 
@@ -43,7 +43,7 @@ User can FullScreen there page after click on top right fullscreen button
   
 Click on Top Right button displying different button like Reload to refresh page,Low Bandwidth ,Normal Bandwidth,High Bandwidth.
 
-![](../.gitbook/assets/image%20%2893%29.png)
+![](../.gitbook/assets/image%20%2895%29.png)
 
 Click on  3 dots and click on Picture in picture by selecting this you can see webinar by doing your other works like you can nevigate to other browser also.
 
@@ -51,11 +51,11 @@ Click on  3 dots and click on Picture in picture by selecting this you can see w
 
 Picture in Picture Mode Displying like below to exit this mode user can click on Exit Picture in Picture mode
 
-![](../.gitbook/assets/image%20%2892%29.png)
+![](../.gitbook/assets/image%20%2894%29.png)
 
 User Who are broadcasting can share there screen to all users who are watching live webcast. He can start screenshare in one click from top Screenshare button or by clicking on bottom ScreenShare button you need to click on Start Sharing Screen. only prerequisite is Screenshare extension should be installed.
 
-![](../.gitbook/assets/image%20%2886%29.png)
+![](../.gitbook/assets/image%20%2888%29.png)
 
 Click on Share button to share your Screen
 
@@ -79,7 +79,7 @@ User who is Broadcasting can stop there webinar after click on disconnect button
 
 After Webinar Stop Public user display below page
 
-![webinar ended](../.gitbook/assets/image%20%2896%29.png)
+![webinar ended](../.gitbook/assets/image%20%2898%29.png)
 
 
 
