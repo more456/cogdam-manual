@@ -20,13 +20,24 @@ For web users the Public link of webinar is shared
 
 Click on Share link the link gets copied automatically and share copied link with users.
 
-Click on Start Webinar to Start
+Click on JOIN NOW button to Start Webinar
 
-![](../.gitbook/assets/microsoftteams-image-14.png)
+![](../.gitbook/assets/image%20%2836%29.png)
 
+After Join webinar click on Share button or copy link from setting to share link to public user
 
+![](../.gitbook/assets/image%20%2855%29.png)
 
+After Share link Display below page to public user
 
+![](../.gitbook/assets/image%20%2835%29.png)
 
+User can FullScreen there page after click on top right fullscreen button
 
+![](../.gitbook/assets/image%20%281%29.png)
+
+  
+Click on Top Right button displying different button like Reload to refresh page,Low Bandwidth ,Normal Bandwidth,High Bandwidth.
+
+![](../.gitbook/assets/image%20%2871%29.png)
 
