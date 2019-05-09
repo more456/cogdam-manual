@@ -2,5 +2,5 @@
 
 Admin user can create approval group of any level also he can editt delete using this tab
 
-![](../../.gitbook/assets/image%20%28153%29.png)
+![](../../.gitbook/assets/image%20%28154%29.png)
 
