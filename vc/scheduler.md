@@ -34,7 +34,7 @@ Now turn your ‘VC’ ON
 
 ![](../.gitbook/assets/image%20%2865%29.png)
 
-If you want connect with Viewer then you need to turn ON ‘VC’ of Viewer. To turn it ON go to ‘Settings’ and click on ‘VC Control’.
+If you want connect with Viewer then you need to turn ON ‘VC’ of Viewer. To turn it ON go to ‘Admin’ and click on ‘VC Control’.
 
 ![](../.gitbook/assets/image%20%28124%29.png)
 

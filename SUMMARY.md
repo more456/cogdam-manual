@@ -1,7 +1,8 @@
 # Table of contents
 
 * [Cogdam User Help Manual](README.md)
-* [About CogDam](about-cogdam.md)
+* [About CogDam](about-cogdam/README.md)
+  * [Application Prerequisite](about-cogdam/application-prerequisite.md)
 * [What’s in the box](whats-in-the-box.md)
 * [License](license.md)
 * [Login or Existing User Sign up](login-or-existing-user-sign-up/README.md)
