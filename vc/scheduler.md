@@ -2,21 +2,21 @@
 
 This window shows Upcoming event list wise and calendar wise.
 
-![](../.gitbook/assets/image%20%28103%29.png)
+![](../.gitbook/assets/image%20%28104%29.png)
 
 ###  **Normal Meeting**
 
 Click on Create Meeting icon and in ‘Basic Info’ tab select Event Type as ‘Normal meeting’ and fill in relevant info.
 
-![](../.gitbook/assets/image%20%28120%29.png)
+![](../.gitbook/assets/image%20%28121%29.png)
 
 After Selected Role and Selected Users get Added then they will be display as below.
 
-![](../.gitbook/assets/image%20%28166%29.png)
+![](../.gitbook/assets/image%20%28172%29.png)
 
 When we select User Role as a’ Guest’ then fill in relevant information and click on ‘Add Guest’ button.
 
-![](../.gitbook/assets/image%20%28102%29.png)
+![](../.gitbook/assets/image%20%28103%29.png)
 
 After creation of Meeting will be display in notification bar and on calendar.
 
@@ -28,7 +28,7 @@ Click on that meeting notification on calendar will show you ‘Meeting Details�
 
 You have to click on Call icon to start meeting
 
-![](../.gitbook/assets/image%20%2897%29.png)
+![](../.gitbook/assets/image%20%2898%29.png)
 
 Now turn your ‘VC’ ON
 
@@ -36,7 +36,7 @@ Now turn your ‘VC’ ON
 
 If you want connect with Viewer then you need to turn ON ‘VC’ of Viewer. To turn it ON go to ‘Settings’ and click on ‘VC Control’.
 
-![](../.gitbook/assets/image%20%28128%29.png)
+![](../.gitbook/assets/image%20%28130%29.png)
 
 After turning ‘VC’ ON
 
@@ -44,11 +44,11 @@ After turning ‘VC’ ON
 
 If you want to ask questions in meeting then click on ‘Raise hand’ icon.
 
-![](../.gitbook/assets/image%20%28141%29.png)
+![](../.gitbook/assets/image%20%28145%29.png)
 
 After sending message if you click on ‘Pull to Loby’ or ‘pull to VC’ the message going to send to that particular person only but if you click on ‘Chat’ icon then message will be display in group.
 
-![](../.gitbook/assets/image%20%28112%29.png)
+![](../.gitbook/assets/image%20%28113%29.png)
 
 For editing of meeting info go to ‘Settings’ tab where we can edit meeting info but meeting type is not editable.
 
@@ -60,7 +60,7 @@ For editing of meeting info go to ‘Settings’ tab where we can edit meeting i
 
  **Upload Document**
 
-![](../.gitbook/assets/image%20%28135%29.png)
+![](../.gitbook/assets/image%20%28138%29.png)
 
 After uploading a document
 
@@ -76,15 +76,15 @@ When you click on ‘LMS’ it shows the event info, number of users…etc
 
 We can share our files during the meeting so everyone can interact with it.
 
-![](../.gitbook/assets/image%20%28169%29.png)
+![](../.gitbook/assets/image%20%28175%29.png)
 
 When we get connected in meeting we can see self feed and conference feed on our page.
 
-![](../.gitbook/assets/image%20%28107%29.png)
+![](../.gitbook/assets/image%20%28108%29.png)
 
 Click on share your screen option icon you can share your screen.
 
-![](../.gitbook/assets/image%20%28138%29.png)
+![](../.gitbook/assets/image%20%28141%29.png)
 
 You can ask question during meeting by clicking on ‘Raise hand’ icon.
 
@@ -92,11 +92,11 @@ You can ask question during meeting by clicking on ‘Raise hand’ icon.
 
 If you want one to one communication between clients you can use ‘Pull to VC’ or ‘Pull to Lob**b**y’ option for chatting.
 
-![](../.gitbook/assets/image%20%28164%29.png)
+![](../.gitbook/assets/image%20%28170%29.png)
 
 Click on chat option and you can chat with all\(ie. Message will display to all in meeting\)
 
-![](../.gitbook/assets/image%20%28144%29.png)
+![](../.gitbook/assets/image%20%28150%29.png)
 
 Click on ‘Scratchpad’ option and click on ‘Start Scratchpad’ button to start scratchpad.
 
@@ -112,7 +112,7 @@ Click on ‘DigiNotes’ Option and then click on ‘Start DigiNotes’ button t
 
 You can create a notes during meeting.
 
-![](../.gitbook/assets/image%20%28153%29.png)
+![](../.gitbook/assets/image%20%28159%29.png)
 
 
 
