@@ -6,7 +6,7 @@ Click on Create Meeting icon and in ‘Basic Info’ tab select Event Type as �
 
 **Upload Document**
 
-![](../../.gitbook/assets/image%20%28135%29.png)
+![](../../.gitbook/assets/image%20%28138%29.png)
 
 After uploading a document
 
@@ -20,7 +20,7 @@ When you click on ‘LMS’ it shows the event info, number of users…etc
 
 User can allocated rooms deciding how many users in one room
 
-![](../../.gitbook/assets/image%20%28145%29.png)
+![](../../.gitbook/assets/image%20%28151%29.png)
 
 ![](../../.gitbook/assets/lms-roo2-2.PNG)
 
@@ -58,7 +58,7 @@ Click on chat option and you can chat with all\(ie. Message will display to all 
 
 Click on 3 hamburger dot from right top and then click on Record session: start button, before start recording displaying No recording at bottom.
 
-![](../../.gitbook/assets/image%20%28161%29.png)
+![](../../.gitbook/assets/image%20%28167%29.png)
 
 After start recording display Recording in green text at bottom. if admin want to stop recording he can stop from top right **Record session: stop** button
 

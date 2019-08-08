@@ -22,7 +22,7 @@ Click on that meeting notification on calendar will show you ‘Meeting Details�
 
 You have to click on Call icon to start meeting
 
-![](../../.gitbook/assets/image%20%2897%29.png)
+![](../../.gitbook/assets/image%20%2898%29.png)
 
 Now turn your ‘VC’ ON
 
@@ -30,7 +30,7 @@ Now turn your ‘VC’ ON
 
 If you want connect with Viewer then you need to turn ON ‘VC’ of Viewer. To turn it ON go to ‘Admin’ and click on ‘VC Control’.
 
-![](../../.gitbook/assets/image%20%28128%29.png)
+![](../../.gitbook/assets/image%20%28130%29.png)
 
 After turning ‘VC’ ON
 
@@ -38,7 +38,7 @@ After turning ‘VC’ ON
 
 If you want to ask questions in meeting then click on ‘Raise hand’ icon.
 
-![](../../.gitbook/assets/image%20%28141%29.png)
+![](../../.gitbook/assets/image%20%28145%29.png)
 
 Click on share your screen option icon you can share your screen.
 
@@ -46,7 +46,7 @@ Click on share your screen option icon you can share your screen.
 
 After sending message if you click on ‘Pull to Loby’ or ‘pull to VC’ the message going to send to that particular person only but if you click on ‘Chat’ icon then message will be display in group.
 
-![Image shown with screen-share and chat](../../.gitbook/assets/image%20%28112%29.png)
+![Image shown with screen-share and chat](../../.gitbook/assets/image%20%28113%29.png)
 
 For editing of meeting info go to ‘Settings’ tab where we can edit meeting info but meeting type is not editable.
 
