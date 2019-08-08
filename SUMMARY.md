@@ -30,4 +30,5 @@
     * [Normal Meeting](vc/scheduler/normal.md)
     * [Webcast Event](vc/scheduler/lms-meeting.md)
     * [LMS Event](vc/scheduler/normal-meeting.md)
+    * [Town Hall](vc/scheduler/town-hall.md)
 
