@@ -6,7 +6,7 @@ Click on Create Meeting icon and in ‘Basic Info’ tab select Event Type as �
 
 **Upload Document**
 
-![](../../.gitbook/assets/image%20%28138%29.png)
+![](../../.gitbook/assets/image%20%28140%29.png)
 
 After uploading a document
 
@@ -14,13 +14,13 @@ After uploading a document
 
 Go to calendar event and click on desired event notification to join Event.
 
-![](../../.gitbook/assets/image%20%2841%29.png)
+![](../../.gitbook/assets/image%20%2842%29.png)
 
 When you click on ‘LMS’ it shows the event info, number of users…etc
 
 User can allocated rooms deciding how many users in one room
 
-![](../../.gitbook/assets/image%20%28151%29.png)
+![](../../.gitbook/assets/image%20%28153%29.png)
 
 ![](../../.gitbook/assets/lms-roo2-2.PNG)
 
@@ -54,19 +54,19 @@ Click on chat option and you can chat with all\(ie. Message will display to all 
 
  **Moderator or owner can start meeting recording**
 
-![](../../.gitbook/assets/image%20%2828%29.png)
+![](../../.gitbook/assets/image%20%2829%29.png)
 
 Click on 3 hamburger dot from right top and then click on Record session: start button, before start recording displaying No recording at bottom.
 
-![](../../.gitbook/assets/image%20%28167%29.png)
+![](../../.gitbook/assets/image%20%28169%29.png)
 
 After start recording display Recording in green text at bottom. if admin want to stop recording he can stop from top right **Record session: stop** button
 
-![](../../.gitbook/assets/image%20%2871%29.png)
+![](../../.gitbook/assets/image%20%2872%29.png)
 
 Meeting recording saved in My recording menu. user can click on recording and see Meeting recording video.
 
-![](../../.gitbook/assets/image%20%2883%29.png)
+![](../../.gitbook/assets/image%20%2884%29.png)
 
 ### 
 
