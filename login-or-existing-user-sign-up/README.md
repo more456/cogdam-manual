@@ -4,5 +4,5 @@ Please enter your email ID to create a new organizational account. This will ser
 
 Check availability of your Mail ID
 
-![](../.gitbook/assets/image%20%28108%29.png)
+![](../.gitbook/assets/image%20%28110%29.png)
 
