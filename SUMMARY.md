@@ -28,6 +28,6 @@
   * [Contact](vc/contact.md)
   * [Scheduler](vc/scheduler/README.md)
     * [Normal Meeting](vc/scheduler/normal.md)
-    * [Webcast Meeting](vc/scheduler/lms-meeting.md)
-    * [LMS Meeting](vc/scheduler/normal-meeting.md)
+    * [Webcast Event](vc/scheduler/lms-meeting.md)
+    * [LMS Event](vc/scheduler/normal-meeting.md)
 
