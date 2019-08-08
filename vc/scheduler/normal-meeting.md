@@ -68,7 +68,7 @@ Meeting recording saved in My recording menu. user can click on recording and se
 
 ![](../../.gitbook/assets/image%20%2881%29.png)
 
-### **Webcast Meeting**
+### 
 
 
 
