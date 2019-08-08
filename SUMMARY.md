@@ -26,5 +26,8 @@
   * [My Media](my-account/my-media.md)
 * [VC](vc/README.md)
   * [Contact](vc/contact.md)
-  * [Scheduler](vc/scheduler.md)
+  * [Scheduler](vc/scheduler/README.md)
+    * [Normal Meeting](vc/scheduler/normal.md)
+    * [Webcast Meeting](vc/scheduler/lms-meeting.md)
+    * [LMS Meeting](vc/scheduler/normal-meeting.md)
 
