@@ -8,3 +8,5 @@ Thank you for purchasing our application. If you have any questions that are bey
 Note: For best performance, Google Chrome browser is recommended for CogDAM portal.
 {% endhint %}
 
+
+
