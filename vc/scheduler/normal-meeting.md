@@ -14,11 +14,17 @@ After uploading a document
 
 Go to calendar event and click on desired event notification to join Event.
 
-![](../../.gitbook/assets/image%20%2842%29.png)
+![](../../.gitbook/assets/join-window.PNG)
+
+![](../../.gitbook/assets/capture1.png)
+
+When more than three users are joined then it will show mic control to the moderator and onwer of the meeting, from this mic control option moderator and owner can ON/OFF the mic of the users in meeting.At one time only three users can talk.
+
+![](../../.gitbook/assets/capture.PNG)
 
 When you click on ‘LMS’ it shows the event info, number of users…etc
 
-User can allocated rooms deciding how many users in one room
+User can allocate rooms deciding how many users in one room
 
 ![](../../.gitbook/assets/image%20%28153%29.png)
 
@@ -30,27 +36,27 @@ We can share our files during the meeting so everyone can interact with it.
 
 When we get connected in meeting we can see self feed and conference feed on our page.
 
-![](../../.gitbook/assets/self_feed.png)
+![](../../.gitbook/assets/capture1%20%281%29.png)
 
 Click on share your screen option icon you can share your screen.
 
 ![](../../.gitbook/assets/popup_ss.png)
 
-After screen-sharing it gets visible at left corner
+After screen-sharing screen-share displays to all the users and the user who is sharing screen its Camera feed will be shown at the bottom right corner of the screen-share feed.
 
-![](../../.gitbook/assets/screenshare.png)
+![](../../.gitbook/assets/screenshare.PNG)
 
 You can ask question during meeting by clicking on ‘Raise hand’ icon.
 
-![](../../.gitbook/assets/had_raise.png)
+![](../../.gitbook/assets/handraise.png)
 
 If you want one to one communication between clients you can use ‘Pull to VC’ or ‘Pull to Lob**b**y’ option for chatting.
 
-![](../../.gitbook/assets/pull-to-vc-and-loby.png)
+![](../../.gitbook/assets/pull-to-vc.png)
 
 Click on chat option and you can chat with all\(ie. Message will display to all in meeting\)
 
-![](../../.gitbook/assets/chat-2.png)
+![](../../.gitbook/assets/messages.png)
 
  **Moderator or owner can start meeting recording**
 
