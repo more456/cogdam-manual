@@ -18,7 +18,7 @@ Go to calendar event and click on desired event notification to join Event.
 
 ![](../../.gitbook/assets/capture1.png)
 
-When more than three users are joined then it will show mic control to the moderator and onwer of the meeting, from this mic control option moderator and owner can ON/OFF the mic of the users in meeting.At one time only three users can talk.
+When more than three users are joined then it will show mic control to the moderator and owner of the meeting, from this mic control option moderator and owner can ON/OFF the mic of the users in meeting.At one time only three users can talk.
 
 ![](../../.gitbook/assets/capture.PNG)
 
