@@ -22,9 +22,9 @@ When more than three users are joined then it will show mic control to the moder
 
 ![](../../.gitbook/assets/capture.PNG)
 
-When you click on ‘LMS’ it shows the event info, number of users…etc
+When you click on ‘LMS’ It displays the window to allocate the rooms deciding how many users in one room .
 
-User can allocate rooms deciding how many users in one room
+After allocating rooms user info can be seen and user can join that room through join button.
 
 ![](../../.gitbook/assets/image%20%28153%29.png)
 
@@ -54,7 +54,7 @@ If you want one to one communication between clients you can use ‘Pull to VC�
 
 ![](../../.gitbook/assets/pull-to-vc.png)
 
-Click on chat option and you can chat with all\(ie. Message will display to all in meeting\)
+Click on chat option and you can chat with all and can send Chat attachements also like any doc file , image, video , audio.
 
 ![](../../.gitbook/assets/messages.png)
 
@@ -69,6 +69,10 @@ Click on 3 hamburger dot from right top and then click on Record session: start 
 After start recording display Recording in green text at bottom. if admin want to stop recording he can stop from top right **Record session: stop** button
 
 ![](../../.gitbook/assets/image%20%2872%29.png)
+
+User can disconnect meeting.
+
+![](../../.gitbook/assets/disconnect-final2.png)
 
 Meeting recording saved in My recording menu. user can click on recording and see Meeting recording video.
 
