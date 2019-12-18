@@ -50,7 +50,7 @@ You can ask question during meeting by clicking on ‘Raise hand’ icon.
 
 ![](../../.gitbook/assets/handraise.png)
 
-If you want one to one communication between clients you can use ‘Pull to VC’ or ‘Pull to Lob**b**y’ option for chatting.
+If any user wants to come in meeting, user can request using hand raise and owner or moderator can pull the user from ‘Pull to VC’ or ‘Pull to Lob**b**y’ option for chat box.
 
 ![](../../.gitbook/assets/pull-to-vc.png)
 
