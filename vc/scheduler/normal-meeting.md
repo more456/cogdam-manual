@@ -70,7 +70,7 @@ After start recording display Recording in green text at bottom. if admin want t
 
 ![](../../.gitbook/assets/image%20%2872%29.png)
 
-User can disconnect meeting.
+User can disconnect meeting from disconnect button.
 
 ![](../../.gitbook/assets/disconnect-final2.png)
 
