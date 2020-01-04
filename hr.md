@@ -2,7 +2,7 @@
 
 HR functionality helps in scheduling Interview , helps streamline, automates, and sync the entire interview scheduling process for all parties involved.
 
-To schedule any Hr meeting , user can goto HR-&gt;Schedule interview
+To schedule any Hr meeting , user can go to HR-&gt;Schedule interview
 
 ![](.gitbook/assets/interviewe-shcedule%20%281%29.PNG)
 
@@ -28,7 +28,7 @@ Scheduled Hr meeting can be edited , deleted and previewed through hr interview 
 
 ![](.gitbook/assets/edit-delete-and-previewe-the-scheduled-interview.PNG)
 
-Scheduled Hr meeting , interview candidate and and interviewer will receive the mails at their respective Email ids . In that mails they will receive the links to join the meeting.Candidate will receive the token along with that link.Afetr hitting that link it will navigate to login screen.
+Scheduled Hr meeting , interview candidate and and interviewer will receive the mails at their respective Email ids . In that mails they will receive the links to join the meeting.Candidate will receive the token along with that link. After hitting that link it will navigate to login screen.
 
 ![Enter token received in the mail](.gitbook/assets/join-mail-link-inetrview-candidate.PNG)
 
@@ -58,7 +58,7 @@ Registered user having the permission of Hr meeting creators can have the shortc
 
 ![](.gitbook/assets/hr-homepage.PNG)
 
-HR interview management page Have one special feature of filtering the list according to the meeting start or end date . user can filter the meeting by giving condition of particular mail of interviewee and interview candidate.
+HR interview management page have one special feature of filtering the list according to the meeting start or end date . User can filter the meeting by giving condition of particular mail of interviewee and interview candidate.
 
 ![](.gitbook/assets/filter-fiunctionality.PNG)
 
