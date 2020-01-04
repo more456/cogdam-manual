@@ -32,7 +32,7 @@ Scheduled Hr meeting , interview candidate and and interviewer will receive the 
 
 ![Enter token received in the mail](.gitbook/assets/join-mail-link-inetrview-candidate.PNG)
 
-After login into the application interviewer and candidate navigates to join window .After clicking on join user join into the meeting.
+After login into the application interviewer and candidate navigates to join window .After clicking on join user join into the meeting. Users vc feed will show on the screen and both can share their screen .
 
 ![](.gitbook/assets/interviewer-join-window.PNG)
 
@@ -41,4 +41,24 @@ After login into the application interviewer and candidate navigates to join win
 Interviewer has the authority to control candidate vc controls.By clicking on Vc control Red icon candidate will be pulled in or pushed out from the meeting by the interviewers.
 
 ![](.gitbook/assets/admin-panel-inetrviewer.PNG)
+
+Candidate and interviewer can chat in the meeting and also can send the chat attachment like audio, video , files , images to each other.
+
+![](.gitbook/assets/interview-messages-chat.png)
+
+After meeting is done , meeting can be disconnected from the disconnect button. After clicking the disconnect button two pop up will appear . Click on yes then meeting get disconnects.
+
+![](.gitbook/assets/disconnect-interview.png)
+
+![](.gitbook/assets/interviewe-complete-pop-up.PNG)
+
+![](.gitbook/assets/interviewe-complete-pop-up1.PNG)
+
+Registered user having the permission of Hr meeting creators can have the shortcuts buttons on their homepage of the application only. From here user can create new meeting , can navigate directly to the interview management page form where interview meetings can be searched and manage will navigate to the interview creators list.
+
+![](.gitbook/assets/hr-homepage.PNG)
+
+HR interview management page Have one special feature of filtering the list according to the meeting start or end date . user can filter the meeting by giving condition of particular mail of interviewee and interview candidate.
+
+![](.gitbook/assets/filter-fiunctionality.PNG)
 
