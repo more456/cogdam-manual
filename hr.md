@@ -14,7 +14,7 @@ For the same meeting interviewers can be added in the meeting by selecting the i
 
 ![](.gitbook/assets/interviewer-select.PNG)
 
-Interviewers can be added in the meeting that are registered or not registered in the application . For the registered interviewers user can select the user from the existing users list . For adding non registered users , ad new users option can be opt by the user.
+Interviewers can be added in the meeting that are registered or not registered in the application . For the registered interviewers user can select the user from the existing users list . For adding non registered users , add new users option can be opt by the user.
 
 ![Select interviewers from existing registered users](.gitbook/assets/choose-existing-users.PNG)
 
