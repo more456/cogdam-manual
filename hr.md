@@ -16,7 +16,29 @@ For the same meeting interviewers can be added in the meeting by selecting the i
 
 Interviewers can be added in the meeting that are registered or not registered in the application . For the registered interviewers user can select the user from the existing users list . For adding non registered users , ad new users option can be opt by the user.
 
-![Select existing registered users](.gitbook/assets/choose-existing-users.PNG)
+![Select interviewers from existing registered users](.gitbook/assets/choose-existing-users.PNG)
 
 ![Add new not registered users](.gitbook/assets/add-new-interviewer.PNG)
+
+Clicking on Save button will schedule the interview and it navigates to the Hr interview management page where users can see all the scheduled interview detailed list.
+
+![](.gitbook/assets/scheduled-intervie.PNG)
+
+Scheduled Hr meeting can be edited , deleted and previewed through hr interview management page. User needs to select the particular meeting from the list and then edit, delete preview icons get enabled through which desired particular action can be performed.
+
+![](.gitbook/assets/edit-delete-and-previewe-the-scheduled-interview.PNG)
+
+Scheduled Hr meeting , interview candidate and and interviewer will receive the mails at their respective Email ids . In that mails they will receive the links to join the meeting.Candidate will receive the token along with that link.Afetr hitting that link it will navigate to login screen.
+
+![Enter token received in the mail](.gitbook/assets/join-mail-link-inetrview-candidate.PNG)
+
+After login into the application interviewer and candidate navigates to join window .After clicking on join user join into the meeting.
+
+![](.gitbook/assets/interviewer-join-window.PNG)
+
+![Meeting is joined by interview candidate and interviewer](.gitbook/assets/interview-meeting-joined.PNG)
+
+Interviewer has the authority to control candidate vc controls.By clicking on Vc control Red icon candidate will be pulled in or pushed out from the meeting by the interviewers.
+
+![](.gitbook/assets/admin-panel-inetrviewer.PNG)
 
