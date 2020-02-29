@@ -54,7 +54,7 @@ If any user wants to come in meeting, user can request using hand raise and owne
 
 ![](../../.gitbook/assets/pull-to-vc.png)
 
-Click on chat option and you can chat with all and can send Chat attachements also like any doc file , image, video , audio.
+Click on chat option and you can chat with all and can send Chat attachments also like any doc file , image, video , audio.
 
 ![](../../.gitbook/assets/messages.png)
 
