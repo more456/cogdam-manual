@@ -6,7 +6,7 @@ User can create Golive event by clicking on Golive tab
 
 When clicks on Golive then Event get started and join now pop up comes on display of user
 
-![](.gitbook/assets/image%20%28192%29.png)
+![](.gitbook/assets/image%20%28194%29.png)
 
 When he joins meeting the pop up generates to ask to starte broadcasting 
 
@@ -26,7 +26,7 @@ Goilve Single user screenshare feed
 
 Golive Public link view feed
 
-![](.gitbook/assets/image%20%28141%29.png)
+![](.gitbook/assets/image%20%28142%29.png)
 
 Goilve Public link screenshare feed
 
