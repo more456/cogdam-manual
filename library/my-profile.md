@@ -2,5 +2,5 @@
 
 We can edit Profile details and change Profile picture.
 
-![](../.gitbook/assets/image%20%28158%29.png)
+![](../.gitbook/assets/image%20%28161%29.png)
 
