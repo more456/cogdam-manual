@@ -14,11 +14,11 @@ When we select User Role as a’ Guest’ then fill in relevant information and 
 
 After creation of Meeting will be display in notification bar and on calendar.
 
-![](../../.gitbook/assets/image%20%28144%29.png)
+![](../../.gitbook/assets/image%20%28145%29.png)
 
 Click on that meeting notification on calendar will show you ‘Meeting Details’ and ‘User Details’ tab. where you can see meeting as well as user details. Now click on ‘Join’ button to join meeting
 
-![](../../.gitbook/assets/image%20%2887%29.png)
+![](../../.gitbook/assets/image%20%2888%29.png)
 
 User gets join now popup when he joins with webcam
 
@@ -26,19 +26,19 @@ User gets join now popup when he joins with webcam
 Consider Webinar Image as user feed and screenshare also
 {% endhint %}
 
-![](../../.gitbook/assets/image%20%28185%29.png)
+![](../../.gitbook/assets/image%20%28187%29.png)
 
 When he joins meeting the pop up generates to ask to starte broadcasting 
 
-![](../../.gitbook/assets/image%20%2831%29.png)
+![](../../.gitbook/assets/image%20%2832%29.png)
 
 Click on share icon to share  link
 
-![](../../.gitbook/assets/image%20%2814%29.png)
+![](../../.gitbook/assets/image%20%2815%29.png)
 
 Single user link feed
 
-![](../../.gitbook/assets/image%20%28128%29.png)
+![](../../.gitbook/assets/image%20%28129%29.png)
 
 Single user screenshare feed
 
@@ -46,7 +46,7 @@ Single user screenshare feed
 
 Public link view feed
 
-![](../../.gitbook/assets/image%20%28137%29.png)
+![](../../.gitbook/assets/image%20%28138%29.png)
 
 Public link screenshare feed
 
