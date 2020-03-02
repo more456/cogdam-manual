@@ -50,7 +50,9 @@ After sending message if you click on ‘Pull to Loby’ or ‘pull to VC’ the
 
 For editing of meeting info go to ‘Settings’ tab where we can edit meeting info but meeting type is not editable.
 
-If the User want to Record The Meeting Press the 3 dot and click on the third button and your Recording will start
+If the User want to Record The Meeting Press the 3 dot and click on the third button and your Recording will start and the meeting will be recorded
 
 ![](../../.gitbook/assets/image%20%2853%29.png)
+
+
 
