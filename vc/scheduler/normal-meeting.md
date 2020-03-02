@@ -84,7 +84,9 @@ I Speech Press the chat button and whatever you will speak it will be Visible on
 
 ![](../../.gitbook/assets/image%20%28139%29.png)
 
+If the User Want To Change The Language Go to settings and Press AI Button
 
+![](../../.gitbook/assets/image%20%2878%29.png)
 
 
 
