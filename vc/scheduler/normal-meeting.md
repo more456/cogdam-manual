@@ -6,7 +6,7 @@ Click on Create Meeting icon and in ‘Basic Info’ tab select Event Type as �
 
 **Upload Document**
 
-![](../../.gitbook/assets/image%20%28150%29.png)
+![](../../.gitbook/assets/image%20%28152%29.png)
 
 After uploading a document
 
@@ -26,7 +26,7 @@ When you click on ‘LMS’ It displays the window to allocate the rooms decidin
 
 After allocating rooms user info can be seen and user can join that room through join button.
 
-![](../../.gitbook/assets/image%20%28163%29.png)
+![](../../.gitbook/assets/image%20%28165%29.png)
 
 ![](../../.gitbook/assets/lms-roo2-2.PNG)
 
@@ -60,15 +60,15 @@ Click on chat option and you can chat with all and can send Chat attachments als
 
  **Moderator or owner can start meeting recording**
 
-![](../../.gitbook/assets/image%20%2831%29.png)
+![](../../.gitbook/assets/image%20%2832%29.png)
 
 Click on 3 hamburger dot from right top and then click on Record session: start button, before start recording displaying No recording at bottom.
 
-![](../../.gitbook/assets/image%20%28180%29.png)
+![](../../.gitbook/assets/image%20%28183%29.png)
 
 After start recording display Recording in green text at bottom. if admin want to stop recording he can stop from top right **Record session: stop** button
 
-![](../../.gitbook/assets/image%20%2878%29.png)
+![](../../.gitbook/assets/image%20%2880%29.png)
 
 User can disconnect meeting from disconnect button.
 
@@ -76,7 +76,7 @@ User can disconnect meeting from disconnect button.
 
 Meeting recording saved in My recording menu. user can click on recording and see Meeting recording video.
 
-![](../../.gitbook/assets/image%20%2890%29.png)
+![](../../.gitbook/assets/image%20%2892%29.png)
 
 If the User want to Record The Meeting Press the 3 dot and click on the third button and your Recording will start. 
 
