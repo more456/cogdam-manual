@@ -10,6 +10,8 @@ User can enter the interview candidate details and add the candidate in the meet
 
 ![](.gitbook/assets/interview-candidate-info.PNG)
 
+After adding the candidate the candidate will receive a mail and by clicking on the link candidate will be added to the meeting
+
 For the same meeting interviewers can be added in the meeting by selecting the interviewer option from drop down list .
 
 ![](.gitbook/assets/interviewer-select.PNG)
