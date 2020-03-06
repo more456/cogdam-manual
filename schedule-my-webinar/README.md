@@ -22,7 +22,7 @@ Step 3 : Share your webinar link with users Click on Copy the link gets copied a
 
 For mobile users to see webinar Scan QR code link is provided
 
-![](../.gitbook/assets/image%20%28197%29.png)
+![](../.gitbook/assets/image%20%28198%29.png)
 
 Click on JOIN NOW button to Start Webinar
 
