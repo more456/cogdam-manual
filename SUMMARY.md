@@ -50,6 +50,6 @@
   * [App registration Logs](admin-settings/app-registration-logs.md)
   * [Flag Category Management](admin-settings/flag-category-management.md)
   * [Active Users](admin-settings/active-users.md)
-* [Active Users](active-users.md)
-* [Inactive Users](inactive-users.md)
+  * [Inactive Users](admin-settings/inactive-users.md)
+  * [Media Bulk Jobs](admin-settings/media-bulk-jobs.md)
 
