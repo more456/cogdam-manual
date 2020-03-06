@@ -18,27 +18,27 @@ After creation of Meeting will be display in notification bar and on calendar.
 
 Click on that meeting notification on calendar will show you ‘Meeting Details’ and ‘User Details’ tab. where you can see meeting as well as user details. Now click on ‘Join’ button to join meeting
 
-![](../../.gitbook/assets/image%20%28114%29.png)
+![](../../.gitbook/assets/image%20%28117%29.png)
 
 You have to click on Call icon to start meeting
 
-![](../../.gitbook/assets/image%20%28135%29.png)
+![](../../.gitbook/assets/image%20%28138%29.png)
 
 Now turn your ‘VC’ ON
 
-![](../../.gitbook/assets/image%20%2895%29.png)
+![](../../.gitbook/assets/image%20%2896%29.png)
 
 If you want connect with Viewer then you need to turn ON ‘VC’ of Viewer. To turn it ON go to ‘Admin’ and click on ‘VC Control’.
 
-![](../../.gitbook/assets/image%20%28183%29.png)
+![](../../.gitbook/assets/image%20%28189%29.png)
 
 After turning ‘VC’ ON
 
-![](../../.gitbook/assets/image%20%2897%29.png)
+![](../../.gitbook/assets/image%20%2898%29.png)
 
 If you want to ask questions in meeting then click on ‘Raise hand’ icon.
 
-![](../../.gitbook/assets/image%20%28205%29.png)
+![](../../.gitbook/assets/image%20%28211%29.png)
 
 Click on share your screen option icon you can share your screen.
 
@@ -46,21 +46,21 @@ Click on share your screen option icon you can share your screen.
 
 After sending message if you click on ‘Pull to Loby’ or ‘pull to VC’ the message going to send to that particular person only but if you click on ‘Chat’ icon then message will be display in group.
 
-![Image shown with screen-share and chat](../../.gitbook/assets/image%20%28159%29.png)
+![Image shown with screen-share and chat](../../.gitbook/assets/image%20%28163%29.png)
 
 For editing of meeting info go to ‘Settings’ tab where we can edit meeting info but meeting type is not editable.
 
 If the User want to Record The Meeting Press the 3 dot and click on the third button and your Recording will start and the meeting will be recorded
 
-![](../../.gitbook/assets/image%20%2874%29.png)
+![](../../.gitbook/assets/image%20%2875%29.png)
 
 I Speech Press the chat button and whatever you will speak it will be Visible on the write side of your Screen.
 
-![](../../.gitbook/assets/image%20%28240%29.png)
+![](../../.gitbook/assets/image%20%28248%29.png)
 
 If the User Want To Change The Language Go to settings and Press AI Button
 
-![](../../.gitbook/assets/image%20%2898%29.png)
+![](../../.gitbook/assets/image%20%2899%29.png)
 
 Press the Language button and can also see the emotions while speaking by pressing the emotions button  
   

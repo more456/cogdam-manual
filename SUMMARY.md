@@ -54,4 +54,6 @@
   * [Media Bulk Jobs](admin-settings/media-bulk-jobs.md)
 * [Access Management](access-management.md)
 * [User Management](user-management.md)
+* [Group Management](group-management.md)
+* [Role Management](role-management.md)
 
