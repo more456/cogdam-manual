@@ -36,4 +36,5 @@
 * [Admin settings](admin-settings/README.md)
   * [Analytics DashBoard](admin-settings/analytics-dashboard.md)
   * [landing Page Settings](admin-settings/landing-page-settings.md)
+  * [Channel Management](admin-settings/channel-management.md)
 
