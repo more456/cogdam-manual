@@ -53,4 +53,5 @@
   * [Inactive Users](admin-settings/inactive-users.md)
   * [Media Bulk Jobs](admin-settings/media-bulk-jobs.md)
 * [Access Management](access-management.md)
+* [User Management](user-management.md)
 
