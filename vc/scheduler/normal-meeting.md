@@ -6,7 +6,7 @@ Click on Create Meeting icon and in ‘Basic Info’ tab select Event Type as �
 
 **Upload Document**
 
-![](../../.gitbook/assets/image%20%28178%29.png)
+![](../../.gitbook/assets/image%20%28189%29.png)
 
 After uploading a document
 
@@ -26,7 +26,7 @@ When you click on ‘LMS’ It displays the window to allocate the rooms decidin
 
 After allocating rooms user info can be seen and user can join that room through join button.
 
-![](../../.gitbook/assets/image%20%28195%29.png)
+![](../../.gitbook/assets/image%20%28207%29.png)
 
 ![](../../.gitbook/assets/lms-roo2-2.PNG)
 
@@ -60,15 +60,15 @@ Click on chat option and you can chat with all and can send Chat attachments als
 
  **Moderator or owner can start meeting recording**
 
-![](../../.gitbook/assets/image%20%2840%29.png)
+![](../../.gitbook/assets/image%20%2842%29.png)
 
 Click on 3 hamburger dot from right top and then click on Record session: start button, before start recording displaying No recording at bottom.
 
-![](../../.gitbook/assets/image%20%28222%29.png)
+![](../../.gitbook/assets/image%20%28237%29.png)
 
 After start recording display Recording in green text at bottom. if admin want to stop recording he can stop from top right **Record session: stop** button
 
-![](../../.gitbook/assets/image%20%2895%29.png)
+![](../../.gitbook/assets/image%20%28101%29.png)
 
 User can disconnect meeting from disconnect button.
 
@@ -78,15 +78,15 @@ Meeting recording saved in My recording menu. user can click on recording and se
 
 If The User Want to Record The Meeting press the recording button and then on the right side below the three dots click on the third button and the recording will start and the meeting will be recorded
 
-![](../../.gitbook/assets/image%20%2820%29.png)
+![](../../.gitbook/assets/image%20%2822%29.png)
 
 I Speech Press the chat button and whatever you will speak it will be Visible on the write side of your Screen.
 
-![](../../.gitbook/assets/image%20%28161%29.png)
+![](../../.gitbook/assets/image%20%28170%29.png)
 
 If the User Want To Change The Language Go to settings and Press AI Button
 
-![](../../.gitbook/assets/image%20%2891%29.png)
+![](../../.gitbook/assets/image%20%2896%29.png)
 
 ![](../../.gitbook/assets/image%20%287%29.png)
 

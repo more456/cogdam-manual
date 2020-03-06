@@ -45,4 +45,10 @@
   * [Send reports To user](admin-settings/send-reports-to-user.md)
   * [Chat Reports](admin-settings/chat-reports.md)
   * [Meeting Reports](admin-settings/meeting-reports.md)
+  * [Meeting Analytics](admin-settings/meeting-analytics.md)
+  * [Audit Access Logs](admin-settings/audit-access-logs.md)
+* [App registration Log](app-registration-log.md)
+* [Flag Category Management](flag-category-management.md)
+* [Active Users](active-users.md)
+* [Inactive Users](inactive-users.md)
 

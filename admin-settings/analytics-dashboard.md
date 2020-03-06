@@ -2,5 +2,5 @@
 
 Summary Of Full application
 
-![](../.gitbook/assets/image%20%28184%29.png)
+![](../.gitbook/assets/image%20%28196%29.png)
 
