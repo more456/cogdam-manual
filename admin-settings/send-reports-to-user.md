@@ -6,9 +6,9 @@ Bulk Documents From CSV Files can be uploaded
 
 Choose The File And Upload and Closed
 
-![](../.gitbook/assets/image%20%28199%29.png)
+![](../.gitbook/assets/image%20%28200%29.png)
 
 And save the documents
 
-![](../.gitbook/assets/image%20%28201%29.png)
+![](../.gitbook/assets/image%20%28202%29.png)
 
