@@ -12,7 +12,7 @@ Click on Create Meeting icon and in ‘Basic Info’ tab select Event Type as �
 
 After Selected Role and Selected Users get Added then they will be display as below.
 
-![](../.gitbook/assets/image%20%28211%29.png)
+![](../.gitbook/assets/image%20%28212%29.png)
 
 When we select User Role as a’ Guest’ then fill in relevant information and click on ‘Add Guest’ button.
 
@@ -76,7 +76,7 @@ When you click on ‘LMS’ it shows the event info, number of users…etc
 
 We can share our files during the meeting so everyone can interact with it.
 
-![](../.gitbook/assets/image%20%28214%29.png)
+![](../.gitbook/assets/image%20%28215%29.png)
 
 When we get connected in meeting we can see self feed and conference feed on our page.
 
@@ -92,7 +92,7 @@ You can ask question during meeting by clicking on ‘Raise hand’ icon.
 
 If you want one to one communication between clients you can use ‘Pull to VC’ or ‘Pull to Lob**b**y’ option for chatting.
 
-![](../.gitbook/assets/image%20%28209%29.png)
+![](../.gitbook/assets/image%20%28210%29.png)
 
 Click on chat option and you can chat with all\(ie. Message will display to all in meeting\)
 
@@ -112,7 +112,7 @@ Click on ‘DigiNotes’ Option and then click on ‘Start DigiNotes’ button t
 
 You can create a notes during meeting.
 
-![](../.gitbook/assets/image%20%28194%29.png)
+![](../.gitbook/assets/image%20%28195%29.png)
 
 
 
