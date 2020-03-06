@@ -2,11 +2,11 @@
 
 If Playlist is not created yet then follow the steps below to create it.
 
-![](../.gitbook/assets/image%20%2873%29.png)
+![](../.gitbook/assets/image%20%2874%29.png)
 
 Give name and fill in relevant info to create Playlist
 
-![](../.gitbook/assets/image%20%28153%29.png)
+![](../.gitbook/assets/image%20%28154%29.png)
 
 Below shown ‘My Favorite song’ is an example for a playlist
 
