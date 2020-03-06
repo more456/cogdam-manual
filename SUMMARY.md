@@ -44,4 +44,5 @@
   * [Reports Summary](admin-settings/reports-summary.md)
   * [Send reports To user](admin-settings/send-reports-to-user.md)
   * [Chat Reports](admin-settings/chat-reports.md)
+  * [Meeting Reports](admin-settings/meeting-reports.md)
 
