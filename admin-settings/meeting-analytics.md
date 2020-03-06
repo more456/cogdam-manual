@@ -2,5 +2,5 @@
 
 User can get all the data of the meetings and can also see a particular meeting which they want
 
-![](../.gitbook/assets/image%20%2844%29.png)
+![](../.gitbook/assets/image%20%2845%29.png)
 
