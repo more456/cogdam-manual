@@ -2,11 +2,17 @@
 
 User Can Add Delete and Edit the Channel
 
-![](../.gitbook/assets/image%20%28117%29.png)
+![](../.gitbook/assets/image%20%28118%29.png)
 
 To Create a New Channel Select title ,description and upload channel cover
 
-![](../.gitbook/assets/image%20%28125%29.png)
+![](../.gitbook/assets/image%20%28126%29.png)
 
+Choose an image from your file and upload
 
+![](../.gitbook/assets/image%20%28201%29.png)
+
+Click Save to save the channel
+
+![](../.gitbook/assets/image%20%2828%29.png)
 
