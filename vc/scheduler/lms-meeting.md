@@ -14,7 +14,7 @@ When we select User Role as a’ Guest’ then fill in relevant information and 
 
 After creation of Meeting will be display in notification bar and on calendar.
 
-![](../../.gitbook/assets/image%20%28157%29.png)
+![](../../.gitbook/assets/image%20%28158%29.png)
 
 Click on that meeting notification on calendar will show you ‘Meeting Details’ and ‘User Details’ tab. where you can see meeting as well as user details. Now click on ‘Join’ button to join meeting
 
@@ -26,7 +26,7 @@ User gets join now popup when he joins with webcam
 Consider Webinar Image as user feed and screenshare also
 {% endhint %}
 
-![](../../.gitbook/assets/image%20%28203%29.png)
+![](../../.gitbook/assets/image%20%28204%29.png)
 
 When he joins meeting the pop up generates to ask to starte broadcasting 
 
@@ -38,7 +38,7 @@ Click on share icon to share  link
 
 Single user link feed
 
-![](../../.gitbook/assets/image%20%28138%29.png)
+![](../../.gitbook/assets/image%20%28139%29.png)
 
 Single user screenshare feed
 
@@ -46,7 +46,7 @@ Single user screenshare feed
 
 Public link view feed
 
-![](../../.gitbook/assets/image%20%28150%29.png)
+![](../../.gitbook/assets/image%20%28151%29.png)
 
 Public link screenshare feed
 

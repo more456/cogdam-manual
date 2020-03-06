@@ -30,7 +30,7 @@ Now turn your ‘VC’ ON
 
 If you want connect with Viewer then you need to turn ON ‘VC’ of Viewer. To turn it ON go to ‘Admin’ and click on ‘VC Control’.
 
-![](../../.gitbook/assets/image%20%28153%29.png)
+![](../../.gitbook/assets/image%20%28154%29.png)
 
 After turning ‘VC’ ON
 
@@ -38,7 +38,7 @@ After turning ‘VC’ ON
 
 If you want to ask questions in meeting then click on ‘Raise hand’ icon.
 
-![](../../.gitbook/assets/image%20%28171%29.png)
+![](../../.gitbook/assets/image%20%28172%29.png)
 
 Click on share your screen option icon you can share your screen.
 
@@ -46,7 +46,7 @@ Click on share your screen option icon you can share your screen.
 
 After sending message if you click on ‘Pull to Loby’ or ‘pull to VC’ the message going to send to that particular person only but if you click on ‘Chat’ icon then message will be display in group.
 
-![Image shown with screen-share and chat](../../.gitbook/assets/image%20%28132%29.png)
+![Image shown with screen-share and chat](../../.gitbook/assets/image%20%28133%29.png)
 
 For editing of meeting info go to ‘Settings’ tab where we can edit meeting info but meeting type is not editable.
 
@@ -56,7 +56,7 @@ If the User want to Record The Meeting Press the 3 dot and click on the third bu
 
 I Speech Press the chat button and whatever you will speak it will be Visible on the write side of your Screen.
 
-![](../../.gitbook/assets/image%20%28195%29.png)
+![](../../.gitbook/assets/image%20%28196%29.png)
 
 If the User Want To Change The Language Go to settings and Press AI Button
 
