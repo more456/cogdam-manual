@@ -33,4 +33,6 @@
   * [My Playlist](my-account/my-playlist.md)
   * [My Media](my-account/my-media.md)
 * [Email Master](email-master.md)
+* [Admin settings](admin-settings/README.md)
+  * [Analytics DashBoard](admin-settings/analytics-dashboard.md)
 
