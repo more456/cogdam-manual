@@ -47,6 +47,7 @@
   * [Meeting Reports](admin-settings/meeting-reports.md)
   * [Meeting Analytics](admin-settings/meeting-analytics.md)
   * [Audit Access Logs](admin-settings/audit-access-logs.md)
+  * [App registration Logs](admin-settings/app-registration-logs.md)
 * [App registration Log](app-registration-log.md)
 * [Flag Category Management](flag-category-management.md)
 * [Active Users](active-users.md)
