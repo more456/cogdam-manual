@@ -41,4 +41,6 @@
   * [Flagged Comments](admin-settings/flagged-comments.md)
   * [Deleted Requested Media](admin-settings/deleted-requested-media.md)
   * [Media Management](admin-settings/media-management.md)
+  * [Reports Summary](admin-settings/reports-summary.md)
+  * [Send reports To user](admin-settings/send-reports-to-user.md)
 
