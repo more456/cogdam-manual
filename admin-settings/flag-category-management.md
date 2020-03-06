@@ -12,3 +12,7 @@ User have to give Flag Id,Description and Display Name and Save
 
 ![](../.gitbook/assets/image%20%2810%29.png)
 
+And It will Be Saved
+
+![](../.gitbook/assets/image%20%2874%29.png)
+
