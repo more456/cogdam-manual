@@ -4,5 +4,5 @@
 
 User can click on ‘+New’ icon to open new channel creation panel
 
-![](../../../.gitbook/assets/image%20%2826%29.png)
+![](../../../.gitbook/assets/image%20%2828%29.png)
 
