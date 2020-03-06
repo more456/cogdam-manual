@@ -22,7 +22,7 @@ Step 3 : Share your webinar link with users Click on Copy the link gets copied a
 
 For mobile users to see webinar Scan QR code link is provided
 
-![](../.gitbook/assets/image%20%28190%29.png)
+![](../.gitbook/assets/image%20%28191%29.png)
 
 Click on JOIN NOW button to Start Webinar
 
@@ -43,7 +43,7 @@ User can FullScreen there page after click on top right fullscreen button
   
 Click on Top Right button displying different button like Reload to refresh page,Low Bandwidth ,Normal Bandwidth,High Bandwidth.
 
-![](../.gitbook/assets/image%20%28147%29.png)
+![](../.gitbook/assets/image%20%28148%29.png)
 
 Click on  3 dots and click on Picture in picture by selecting this you can see webinar by doing your other works like you can nevigate to other browser also.
 
@@ -51,11 +51,11 @@ Click on  3 dots and click on Picture in picture by selecting this you can see w
 
 Picture in Picture Mode Displying like below to exit this mode user can click on Exit Picture in Picture mode
 
-![](../.gitbook/assets/image%20%28142%29.png)
+![](../.gitbook/assets/image%20%28143%29.png)
 
 User Who are broadcasting can share there screen to all users who are watching live webcast. He can start screenshare in one click from top Screenshare button or by clicking on bottom ScreenShare button you need to click on Start Sharing Screen. only prerequisite is Screenshare extension should be installed.
 
-![](../.gitbook/assets/image%20%28132%29.png)
+![](../.gitbook/assets/image%20%28133%29.png)
 
 Click on Share button to share your Screen
 
@@ -79,7 +79,7 @@ User who is Broadcasting can stop there webinar after click on disconnect button
 
 After Webinar Stop Public user display below page
 
-![webinar ended](../.gitbook/assets/image%20%28153%29.png)
+![webinar ended](../.gitbook/assets/image%20%28154%29.png)
 
 
 
