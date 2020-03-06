@@ -26,7 +26,7 @@ User gets join now popup when he joins with webcam
 Consider Webinar Image as user feed and screenshare also
 {% endhint %}
 
-![](../../.gitbook/assets/image%20%28207%29.png)
+![](../../.gitbook/assets/image%20%28208%29.png)
 
 When he joins meeting the pop up generates to ask to starte broadcasting 
 

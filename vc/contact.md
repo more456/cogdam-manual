@@ -30,7 +30,7 @@ After screen share you can see here the computer screen.
 
 You can also do chat during ongoing call.
 
-![](../.gitbook/assets/image%20%28182%29.png)
+![](../.gitbook/assets/image%20%28183%29.png)
 
 Click on ‘Add User/Group’ icon and we can add a contact.
 
@@ -44,7 +44,7 @@ You can search desired contact or group by entering name and then click on ‘Go
 
 Click on ‘Add Contatct/Group’ icon then contact type as ‘Group’ then fill in relevant details.
 
-![](../.gitbook/assets/image%20%28181%29.png)
+![](../.gitbook/assets/image%20%28182%29.png)
 
 Click on Add Users button and select the user type
 
@@ -60,7 +60,7 @@ Group Created
 
 By clicking on group you can see group details.
 
-![](../.gitbook/assets/image%20%28197%29.png)
+![](../.gitbook/assets/image%20%28198%29.png)
 
 We can add new users in a group just by clicking on’+’ icon of selected user.
 
