@@ -56,4 +56,5 @@
 * [User Management](user-management.md)
 * [Group Management](group-management.md)
 * [Role Management](role-management.md)
+* [Ticket Management](ticket-management.md)
 
