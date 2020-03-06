@@ -2,5 +2,5 @@
 
 Channels present in application
 
-![](.gitbook/assets/image%20%2846%29.png)
+![](.gitbook/assets/image%20%2848%29.png)
 
