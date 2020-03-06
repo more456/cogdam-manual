@@ -38,4 +38,5 @@
   * [landing Page Settings](admin-settings/landing-page-settings.md)
   * [Channel Management](admin-settings/channel-management.md)
   * [Flagged Media](admin-settings/flagged-media.md)
+  * [Flagged Comments](admin-settings/flagged-comments.md)
 
