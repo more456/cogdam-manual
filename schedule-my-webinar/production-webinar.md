@@ -54,11 +54,11 @@ Owner can add users by bulk upload. select bulk upload and download sample file.
 
 Open sample file and add email id,display\_name,application\_id and Mob number of role which you want to add in meeting. Save file and Upload this .xls file 
 
-![](../.gitbook/assets/image%20%28190%29.png)
+![](../.gitbook/assets/image%20%28191%29.png)
 
  The links of webinar can be shared to the users by three type
 
-![](../.gitbook/assets/image%20%28212%29.png)
+![](../.gitbook/assets/image%20%28213%29.png)
 
 * Scan QR Code link is for mobile user. Scanner is required to scan QR code,after scan code directly open webinar link add email id and password and click on Sign In button.
 
@@ -90,7 +90,7 @@ Confirmation Pop up come click on Yes to Approve Webinar
 
 Click on Start Webinar button to start webinar
 
-![](../.gitbook/assets/image%20%28206%29.png)
+![](../.gitbook/assets/image%20%28207%29.png)
 
 ![](../.gitbook/assets/image%20%28141%29.png)
 

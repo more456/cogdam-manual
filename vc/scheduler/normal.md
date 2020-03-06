@@ -56,7 +56,7 @@ If the User want to Record The Meeting Press the 3 dot and click on the third bu
 
 I Speech Press the chat button and whatever you will speak it will be Visible on the write side of your Screen.
 
-![](../../.gitbook/assets/image%20%28204%29.png)
+![](../../.gitbook/assets/image%20%28205%29.png)
 
 If the User Want To Change The Language Go to settings and Press AI Button
 

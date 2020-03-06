@@ -60,7 +60,7 @@ Group Created
 
 By clicking on group you can see group details.
 
-![](../.gitbook/assets/image%20%28203%29.png)
+![](../.gitbook/assets/image%20%28204%29.png)
 
 We can add new users in a group just by clicking on’+’ icon of selected user.
 
