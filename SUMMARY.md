@@ -56,6 +56,5 @@
   * [User Management](access-management/user-management.md)
   * [Group Management](access-management/group-management.md)
   * [Role Management](access-management/role-management.md)
-* [Role Management](role-management.md)
-* [Ticket Management](ticket-management.md)
+  * [Ticket Management](access-management/ticket-management.md)
 
