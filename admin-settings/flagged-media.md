@@ -2,7 +2,7 @@
 
 User can find all the approved and Rejected media In Flagged Media
 
-![](../.gitbook/assets/image%20%2844%29.png)
+![](../.gitbook/assets/image%20%2845%29.png)
 
 
 
