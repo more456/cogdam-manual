@@ -6,11 +6,11 @@ We can see all contacts present in application on ‘\#ALL’ tab
 
 we can added contacts from ‘\#ALL’ tab in ‘COGDAM’ tab by click on ‘Add to contact’ icon
 
-![](../.gitbook/assets/image%20%28165%29.png)
+![](../.gitbook/assets/image%20%28166%29.png)
 
 Click on ‘Filter’ button to filter users by Contacts, Groups, All
 
-![](../.gitbook/assets/image%20%28197%29.png)
+![](../.gitbook/assets/image%20%28198%29.png)
 
 With selected contact we can do one-to-one chat
 
@@ -22,15 +22,15 @@ We can do one-to-one call with selected contact. We can share our screen by clic
 
 Click on ‘Share’ button to share your screen
 
-![](../.gitbook/assets/image%20%28113%29.png)
+![](../.gitbook/assets/image%20%28114%29.png)
 
 After screen share you can see here the computer screen.
 
-![](../.gitbook/assets/image%20%28115%29.png)
+![](../.gitbook/assets/image%20%28116%29.png)
 
 You can also do chat during ongoing call.
 
-![](../.gitbook/assets/image%20%28221%29.png)
+![](../.gitbook/assets/image%20%28222%29.png)
 
 Click on ‘Add User/Group’ icon and we can add a contact.
 
@@ -38,21 +38,21 @@ Click on ‘Add User/Group’ icon and we can add a contact.
 
 You can search desired contact or group by entering name and then click on ‘Go’ button
 
-![](../.gitbook/assets/image%20%28193%29.png)
+![](../.gitbook/assets/image%20%28194%29.png)
 
 ##  **Create Group**
 
 Click on ‘Add Contatct/Group’ icon then contact type as ‘Group’ then fill in relevant details.
 
-![](../.gitbook/assets/image%20%28220%29.png)
+![](../.gitbook/assets/image%20%28221%29.png)
 
 Click on Add Users button and select the user type
 
-![](../.gitbook/assets/image%20%2856%29.png)
+![](../.gitbook/assets/image%20%2857%29.png)
 
 By clicking on name of user you can add that user.
 
-![](../.gitbook/assets/image%20%28173%29.png)
+![](../.gitbook/assets/image%20%28174%29.png)
 
 Group Created
 
@@ -60,11 +60,11 @@ Group Created
 
 By clicking on group you can see group details.
 
-![](../.gitbook/assets/image%20%28249%29.png)
+![](../.gitbook/assets/image%20%28250%29.png)
 
 We can add new users in a group just by clicking on’+’ icon of selected user.
 
-![](../.gitbook/assets/image%20%28142%29.png)
+![](../.gitbook/assets/image%20%28143%29.png)
 
 We can do group call also by click on ‘Video call’ icon in group window.
 
