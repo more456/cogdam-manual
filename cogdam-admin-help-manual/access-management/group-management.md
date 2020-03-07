@@ -4,23 +4,23 @@
 
 Every user in the portal can be assigned with a group based on roles and permissions.
 
-![](../../.gitbook/assets/image%20%28141%29.png)
+![](../../.gitbook/assets/image%20%28144%29.png)
 
 **Create a new group**
 
 By clicking on ‘+’ icon a user can create a new group and also set permissions accordingl**y**
 
-![](../../.gitbook/assets/image%20%28233%29.png)
+![](../../.gitbook/assets/image%20%28238%29.png)
 
 **Fill group details**
 
 Once the group is created the user can fill-in relevant information and assign various permissions.
 
-![](../../.gitbook/assets/image%20%2821%29.png)
+![](../../.gitbook/assets/image%20%2822%29.png)
 
 **Group created**
 
 Once the fields are filled the user can save the changes. A green notification is displayed confirming the status of group.
 
-![](../../.gitbook/assets/image%20%28241%29.png)
+![](../../.gitbook/assets/image%20%28246%29.png)
 
