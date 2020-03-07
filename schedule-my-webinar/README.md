@@ -22,7 +22,7 @@ Step 3 : Share your webinar link with users Click on Copy the link gets copied a
 
 For mobile users to see webinar Scan QR code link is provided
 
-![](../.gitbook/assets/image%20%28241%29.png)
+![](../.gitbook/assets/image%20%28242%29.png)
 
 Click on JOIN NOW button to Start Webinar
 
@@ -43,7 +43,7 @@ User can FullScreen there page after click on top right fullscreen button
   
 Click on Top Right button displying different button like Reload to refresh page,Low Bandwidth ,Normal Bandwidth,High Bandwidth.
 
-![](../.gitbook/assets/image%20%28182%29.png)
+![](../.gitbook/assets/image%20%28183%29.png)
 
 Click on  3 dots and click on Picture in picture by selecting this you can see webinar by doing your other works like you can nevigate to other browser also.
 
@@ -79,7 +79,7 @@ User who is Broadcasting can stop there webinar after click on disconnect button
 
 After Webinar Stop Public user display below page
 
-![webinar ended](../.gitbook/assets/image%20%28189%29.png)
+![webinar ended](../.gitbook/assets/image%20%28190%29.png)
 
 
 

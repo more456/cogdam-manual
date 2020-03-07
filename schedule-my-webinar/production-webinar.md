@@ -12,7 +12,7 @@ In Schedule Later user need to select Event Start Time and Event End Time
 
 The owner of webinar can select number of users to be added in webinar and according to that the cost will get updated
 
-![](../.gitbook/assets/image%20%28209%29.png)
+![](../.gitbook/assets/image%20%28210%29.png)
 
 Owner can select additional options while adding users and that cost will be updated
 
@@ -24,7 +24,7 @@ Have to add Approver's id for approval of webinar.
 
 Click on Add Approver Button, enter approver email id & press enter button click on update & close button. Entered email ids are display in dropdown list of Approver Email id.
 
-![](../.gitbook/assets/image%20%28215%29.png)
+![](../.gitbook/assets/image%20%28216%29.png)
 
 Owner can enable public webcast viewer page by checking in the box and also add password and chat option on clicking on plus icon \(Choose Features\) and click on next button.
 
@@ -34,7 +34,7 @@ Owner can enable public webcast viewer page by checking in the box and also add 
 
 Owner can add users from application one by one or in bulk format .Add user in webinar one by one through Single User Upload. Chooes Role like Moderator,Presenter,VC participant ,Viwer,Guest from drop down list to add users 
 
-![](../.gitbook/assets/image%20%28197%29.png)
+![](../.gitbook/assets/image%20%28198%29.png)
 
 Click on Choose Existing users Button and select user from list 
 
@@ -46,7 +46,7 @@ Added user in webinar display at right side of page with assign roles
 
  Moderator Email id will be display in User id list. Select user whome should be kept in CC of webinar mail and click on next button
 
-![](../.gitbook/assets/image%20%28214%29.png)
+![](../.gitbook/assets/image%20%28215%29.png)
 
 Owner can add users by bulk upload. select bulk upload and download sample file.
 
@@ -54,11 +54,11 @@ Owner can add users by bulk upload. select bulk upload and download sample file.
 
 Open sample file and add email id,display\_name,application\_id and Mob number of role which you want to add in meeting. Save file and Upload this .xls file 
 
-![](../.gitbook/assets/image%20%28225%29.png)
+![](../.gitbook/assets/image%20%28226%29.png)
 
  The links of webinar can be shared to the users by three type
 
-![](../.gitbook/assets/image%20%28258%29.png)
+![](../.gitbook/assets/image%20%28259%29.png)
 
 * Scan QR Code link is for mobile user. Scanner is required to scan QR code,after scan code directly open webinar link add email id and password and click on Sign In button.
 
@@ -66,7 +66,7 @@ Open sample file and add email id,display\_name,application\_id and Mob number o
 
 * Webinar Link to share - Copy this link and share to user it will ask for Sign In enter Email id and Password and sign in.
 
-![](../.gitbook/assets/image%20%28211%29.png)
+![](../.gitbook/assets/image%20%28212%29.png)
 
 * External app link to share - Copy this link and share to user it will ask for Password ,Enter password and login display live webinar
 
@@ -90,7 +90,7 @@ Confirmation Pop up come click on Yes to Approve Webinar
 
 Click on Start Webinar button to start webinar
 
-![](../.gitbook/assets/image%20%28252%29.png)
+![](../.gitbook/assets/image%20%28253%29.png)
 
 ![](../.gitbook/assets/image%20%28168%29.png)
 
@@ -110,7 +110,7 @@ User can ask question via Q&A Session
 
 Questions ask by external users display in Admin user chat panel
 
-![](../.gitbook/assets/image%20%28180%29.png)
+![](../.gitbook/assets/image%20%28181%29.png)
 
 Viewer link view of webinar
 
