@@ -10,7 +10,7 @@ To Create a New Channel Select title ,description and upload channel cover
 
 Choose an image from your file and upload
 
-![](../.gitbook/assets/image%20%28255%29.png)
+![](../.gitbook/assets/image%20%28256%29.png)
 
 Click Save to save the channel
 

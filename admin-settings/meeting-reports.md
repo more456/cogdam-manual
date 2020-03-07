@@ -2,7 +2,7 @@
 
 All the Meeting reports which are been sceduled
 
-![](../.gitbook/assets/image%20%28253%29.png)
+![](../.gitbook/assets/image%20%28254%29.png)
 
 User can see the details of the meeting buy clicking on Meeting Details
 

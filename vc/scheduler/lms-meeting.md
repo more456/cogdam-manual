@@ -26,7 +26,7 @@ User gets join now popup when he joins with webcam
 Consider Webinar Image as user feed and screenshare also
 {% endhint %}
 
-![](../../.gitbook/assets/image%20%28261%29.png)
+![](../../.gitbook/assets/image%20%28262%29.png)
 
 When he joins meeting the pop up generates to ask to starte broadcasting 
 
@@ -55,6 +55,10 @@ Public link screenshare feed
 If The User Want To Record The Meeting Press The button marked
 
 ![](../../.gitbook/assets/image%20%2839%29.png)
+
+User Can Chat while meeting is going on
+
+![](../../.gitbook/assets/image%20%28243%29.png)
 
 
 
