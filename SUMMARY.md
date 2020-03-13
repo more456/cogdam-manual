@@ -22,11 +22,6 @@
 ## Cogdam Admin Help Manual
 
 * [Cogdam Admin Help Manual](cogdam-admin-help-manual/untitled/README.md)
-  * [HR](cogdam-admin-help-manual/untitled/hr/README.md)
-    * [Interviewers](cogdam-admin-help-manual/untitled/hr/interviewers.md)
-    * [HR Interview Management](cogdam-admin-help-manual/untitled/hr/hr-interview-management.md)
-    * [Schedule Interview](cogdam-admin-help-manual/untitled/hr/schedule-interview.md)
-    * [Dashboard](cogdam-admin-help-manual/untitled/hr/dashboard.md)
   * [Analytics Dashboard](cogdam-admin-help-manual/untitled/analytics-dashboard.md)
   * [Landing Page settings](cogdam-admin-help-manual/untitled/landing-page-settings.md)
   * [Channel Management](cogdam-admin-help-manual/untitled/channel-management/README.md)
@@ -42,6 +37,7 @@
   * [Meeting Reports](cogdam-admin-help-manual/untitled/meeting-reports.md)
   * [Audit Access Log](cogdam-admin-help-manual/untitled/untitled.md)
   * [Flag Category Management](cogdam-admin-help-manual/untitled/flag-category-management.md)
+  * [App Registration Log](cogdam-admin-help-manual/untitled/app-registration-log.md)
 * [Access management](cogdam-admin-help-manual/access-management/README.md)
   * [User management](cogdam-admin-help-manual/access-management/user-management.md)
   * [Custom Approval Group](cogdam-admin-help-manual/access-management/custom-approval-group.md)
