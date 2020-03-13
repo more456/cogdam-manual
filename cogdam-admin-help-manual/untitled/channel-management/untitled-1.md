@@ -2,5 +2,5 @@
 
 Once the fields are filled and saved, a green notification is displayed confirming the status of the channel.
 
-![](../../../.gitbook/assets/image%20%2841%29.png)
+![](../../../.gitbook/assets/image%20%2842%29.png)
 

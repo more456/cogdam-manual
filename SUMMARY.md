@@ -37,6 +37,7 @@
   * [Meeting Reports](cogdam-admin-help-manual/untitled/meeting-reports.md)
   * [Audit Access Log](cogdam-admin-help-manual/untitled/untitled.md)
   * [Flag Category Management](cogdam-admin-help-manual/untitled/flag-category-management.md)
+  * [Delete Requested Media](cogdam-admin-help-manual/untitled/delete-requested-media.md)
   * [App Registration Log](cogdam-admin-help-manual/untitled/app-registration-log.md)
   * [Active Users](cogdam-admin-help-manual/untitled/active-users.md)
   * [Inavctive Users](cogdam-admin-help-manual/untitled/inavctive-users.md)
