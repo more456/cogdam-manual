@@ -39,6 +39,7 @@
   * [Flag Category Management](cogdam-admin-help-manual/untitled/flag-category-management.md)
   * [App Registration Log](cogdam-admin-help-manual/untitled/app-registration-log.md)
   * [Active Users](cogdam-admin-help-manual/untitled/active-users.md)
+  * [Inavctive Users](cogdam-admin-help-manual/untitled/inavctive-users.md)
 * [Access management](cogdam-admin-help-manual/access-management/README.md)
   * [User management](cogdam-admin-help-manual/access-management/user-management.md)
   * [Custom Approval Group](cogdam-admin-help-manual/access-management/custom-approval-group.md)
