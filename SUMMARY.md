@@ -40,6 +40,7 @@
   * [App Registration Log](cogdam-admin-help-manual/untitled/app-registration-log.md)
   * [Active Users](cogdam-admin-help-manual/untitled/active-users.md)
   * [Inavctive Users](cogdam-admin-help-manual/untitled/inavctive-users.md)
+  * [Media Bulk Jobs](cogdam-admin-help-manual/untitled/media-bulk-jobs.md)
 * [Access management](cogdam-admin-help-manual/access-management/README.md)
   * [User management](cogdam-admin-help-manual/access-management/user-management.md)
   * [Custom Approval Group](cogdam-admin-help-manual/access-management/custom-approval-group.md)
