@@ -6,7 +6,7 @@ Medias which has been Flagged can be Edited and Deleted
 
 Click on new to add master flag
 
-![](../../.gitbook/assets/image%20%28248%29.png)
+![](../../.gitbook/assets/image%20%28251%29.png)
 
 User have to give Flag Id,Description and Display Name and Save
 
@@ -14,7 +14,7 @@ User have to give Flag Id,Description and Display Name and Save
 
 And It will Be Saved
 
-![](../../.gitbook/assets/image%20%2880%29.png)
+![](../../.gitbook/assets/image%20%2881%29.png)
 
 
 
