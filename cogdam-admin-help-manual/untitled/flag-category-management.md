@@ -1,4 +1,20 @@
 # Flag Category Management
 
-![](../../.gitbook/assets/image%20%2871%29.png)
+Medias which has been Flagged can be Edited and Deleted
+
+![](../../.gitbook/assets/image%20%2812%29.png)
+
+Click on new to add master flag
+
+![](../../.gitbook/assets/image%20%28248%29.png)
+
+User have to give Flag Id,Description and Display Name and Save
+
+![](../../.gitbook/assets/image%20%2811%29.png)
+
+And It will Be Saved
+
+![](../../.gitbook/assets/image%20%2880%29.png)
+
+
 
