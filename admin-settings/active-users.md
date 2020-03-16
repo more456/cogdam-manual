@@ -10,19 +10,19 @@ Select the user and click on + button and can get the details of the active user
 
 Following page will appear after we click on \( + \) sign
 
-![](../.gitbook/assets/image%20%28245%29.png)
+![](../.gitbook/assets/image%20%28247%29.png)
 
 Make changes by clicking on the \( + \) sign again
 
-![](../.gitbook/assets/image%20%28118%29.png)
+![](../.gitbook/assets/image%20%28119%29.png)
 
 ![](../.gitbook/assets/image%20%2863%29.png)
 
 Users can also edit by clicking on the edit option above
 
-![](../.gitbook/assets/image%20%28242%29.png)
+![](../.gitbook/assets/image%20%28243%29.png)
 
 Fill all the fields and then click on save
 
-![](../.gitbook/assets/image%20%28148%29.png)
+![](../.gitbook/assets/image%20%28149%29.png)
 
