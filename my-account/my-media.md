@@ -6,9 +6,9 @@ We can see our all media here. Select the media to be edited then click on the â
 
 Choose options from the above and edit the media
 
-![](../.gitbook/assets/image%20%2832%29.png)
+![](../.gitbook/assets/image%20%2833%29.png)
 
 Make changes need to be made
 
-![](../.gitbook/assets/image%20%28270%29.png)
+![](../.gitbook/assets/image%20%28271%29.png)
 
