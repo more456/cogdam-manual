@@ -10,5 +10,5 @@ Choose options from the above and edit the media
 
 Make changes need to be made
 
-![](../.gitbook/assets/image%20%28254%29.png)
+![](../.gitbook/assets/image%20%28261%29.png)
 
