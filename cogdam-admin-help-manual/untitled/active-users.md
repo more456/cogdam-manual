@@ -6,7 +6,7 @@ You can Search the Active Users
 
 Select the user and click on + button and can get the details of the active user
 
-![](../../.gitbook/assets/image%20%28171%29.png)
+![](../../.gitbook/assets/image%20%28172%29.png)
 
 By Clicking On Edit Button Admin Can Edit The Active User
 
