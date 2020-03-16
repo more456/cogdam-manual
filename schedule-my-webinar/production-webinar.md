@@ -58,7 +58,7 @@ Open sample file and add email id,display\_name,application\_id and Mob number o
 
  The links of webinar can be shared to the users by three type
 
-![](../.gitbook/assets/image%20%28297%29.png)
+![](../.gitbook/assets/image%20%28298%29.png)
 
 * Scan QR Code link is for mobile user. Scanner is required to scan QR code,after scan code directly open webinar link add email id and password and click on Sign In button.
 
