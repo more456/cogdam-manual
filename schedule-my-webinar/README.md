@@ -20,7 +20,7 @@ Step 2 : Share your webinar link with users Click on Copy the link gets copied a
 
 For mobile users to see webinar Scan QR code link is provided
 
-![](../.gitbook/assets/image%20%28256%29.png)
+![](../.gitbook/assets/image%20%28258%29.png)
 
 Click on JOIN NOW button to Start Webinar
 
@@ -28,7 +28,7 @@ Click on JOIN NOW button to Start Webinar
 
 After Join webinar click on Share button or copy link from setting to share link to public user
 
-![](../.gitbook/assets/image%20%28146%29.png)
+![](../.gitbook/assets/image%20%28147%29.png)
 
 After Share link Display below page to public user
 
@@ -41,7 +41,7 @@ User can FullScreen there page after click on top right fullscreen button
   
 Click on Top Right button displying different button like Reload to refresh page,Low Bandwidth ,Normal Bandwidth,High Bandwidth.
 
-![](../.gitbook/assets/image%20%28196%29.png)
+![](../.gitbook/assets/image%20%28198%29.png)
 
 Click on  3 dots and click on Picture in picture by selecting this you can see webinar by doing your other works like you can nevigate to other browser also.
 
@@ -49,15 +49,15 @@ Click on  3 dots and click on Picture in picture by selecting this you can see w
 
 Picture in Picture Mode Displying like below to exit this mode user can click on Exit Picture in Picture mode
 
-![](../.gitbook/assets/image%20%28190%29.png)
+![](../.gitbook/assets/image%20%28192%29.png)
 
 User Who are broadcasting can share there screen to all users who are watching live webcast. He can start screenshare in one click from top Screenshare button or by clicking on bottom ScreenShare button you need to click on Start Sharing Screen. only prerequisite is Screenshare extension should be installed.
 
-![](../.gitbook/assets/image%20%28175%29.png)
+![](../.gitbook/assets/image%20%28176%29.png)
 
 Click on Share button to share your Screen
 
-![](../.gitbook/assets/image%20%28132%29.png)
+![](../.gitbook/assets/image%20%28133%29.png)
 
 After Share Screen Public user Display Screenshare on top left Corner of there page 
 
@@ -77,7 +77,7 @@ User who is Broadcasting can stop there webinar after click on disconnect button
 
 After Webinar Stop Public user display below page
 
-![webinar ended](../.gitbook/assets/image%20%28203%29.png)
+![webinar ended](../.gitbook/assets/image%20%28205%29.png)
 
 
 

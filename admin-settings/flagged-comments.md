@@ -6,11 +6,11 @@ User Can Flag in their Existing Comments
 
 Select A Media and Can Flag
 
-![](../.gitbook/assets/image%20%28244%29.png)
+![](../.gitbook/assets/image%20%28246%29.png)
 
 Close and go back
 
-![](../.gitbook/assets/image%20%28238%29.png)
+![](../.gitbook/assets/image%20%28240%29.png)
 
 
 

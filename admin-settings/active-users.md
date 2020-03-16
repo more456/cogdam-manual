@@ -2,9 +2,9 @@
 
 You can Search the Active Users 
 
-![](../.gitbook/assets/image%20%28173%29.png)
+![](../.gitbook/assets/image%20%28174%29.png)
 
 Select the user and click on + button and can get the details of the active user
 
-![](../.gitbook/assets/image%20%28161%29.png)
+![](../.gitbook/assets/image%20%28162%29.png)
 
