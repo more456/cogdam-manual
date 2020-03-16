@@ -1,4 +1,4 @@
-# Roll Management
+# Role Management
 
 With the help off this tab Admin user can assign group permissions to the user 
 

@@ -47,6 +47,6 @@
   * [Custom Approval Group](cogdam-admin-help-manual/access-management/custom-approval-group.md)
   * [Tickets](cogdam-admin-help-manual/access-management/tickets.md)
   * [Survey](cogdam-admin-help-manual/access-management/survey.md)
-  * [Roll Management](cogdam-admin-help-manual/access-management/roll-management.md)
+  * [Role Management](cogdam-admin-help-manual/access-management/roll-management.md)
   * [Group Management](cogdam-admin-help-manual/access-management/group-management.md)
 
