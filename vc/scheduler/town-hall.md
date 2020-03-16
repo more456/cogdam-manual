@@ -2,15 +2,15 @@
 
 Join Town Hall meeting by click on connect button or click on Call icon to start meeting.
 
-![](../../.gitbook/assets/image%20%28233%29.png)
+![](../../.gitbook/assets/image%20%28234%29.png)
 
 Click on Join Now button to join meeting
 
-![](../../.gitbook/assets/image%20%28227%29.png)
+![](../../.gitbook/assets/image%20%28228%29.png)
 
 Now turn your ‘VC’ ON
 
-![](../../.gitbook/assets/image%20%28142%29.png)
+![](../../.gitbook/assets/image%20%28143%29.png)
 
 Viwer Click on raise hand button and ask question to presenter
 
@@ -18,13 +18,13 @@ Viwer Click on raise hand button and ask question to presenter
 
 Presenter display Questions ask by viwer in chat panel from chat panel presenter can pull that user in meeting by click on Pull to VC button
 
-![](../../.gitbook/assets/image%20%28230%29.png)
+![](../../.gitbook/assets/image%20%28231%29.png)
 
 After Pull viwer in meeting both user can communicate with each others.
 
-![](../../.gitbook/assets/image%20%28196%29.png)
+![](../../.gitbook/assets/image%20%28197%29.png)
 
 Click on disconnect button to disconnect meeting
 
-![](../../.gitbook/assets/image%20%28205%29.png)
+![](../../.gitbook/assets/image%20%28206%29.png)
 
