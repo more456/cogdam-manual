@@ -2,5 +2,5 @@
 
 Admin user can see all tickets details in this tab
 
-![](../../.gitbook/assets/image%20%2889%29.png)
+![](../../.gitbook/assets/image%20%2890%29.png)
 
