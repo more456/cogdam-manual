@@ -76,7 +76,7 @@ When you click on ‘LMS’ it shows the event info, number of users…etc
 
 We can share our files during the meeting so everyone can interact with it.
 
-![](../.gitbook/assets/image%20%28299%29.png)
+![](../.gitbook/assets/image%20%28300%29.png)
 
 When we get connected in meeting we can see self feed and conference feed on our page.
 

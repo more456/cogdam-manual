@@ -49,4 +49,5 @@
   * [Survey](cogdam-admin-help-manual/access-management/survey.md)
   * [Role Management](cogdam-admin-help-manual/access-management/roll-management.md)
   * [Group Management](cogdam-admin-help-manual/access-management/group-management.md)
+* [Signout](signout.md)
 
