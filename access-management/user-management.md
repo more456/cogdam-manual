@@ -6,15 +6,15 @@ User can Get the details,can edit and delete and can also add new user
 
 To add new user put name,Email and phone number and save
 
-![](../.gitbook/assets/image%20%28139%29.png)
+![](../.gitbook/assets/image%20%28140%29.png)
 
 For Bulk upload file choose file upload and Close
 
-![](../.gitbook/assets/image%20%28295%29.png)
+![](../.gitbook/assets/image%20%28296%29.png)
 
 User Can edit
 
-![](../.gitbook/assets/image%20%28167%29.png)
+![](../.gitbook/assets/image%20%28168%29.png)
 
 User Can change name ,mail id  and mobile number and save
 
