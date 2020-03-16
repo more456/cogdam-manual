@@ -6,7 +6,7 @@ Click on Create Meeting icon and in ‘Basic Info’ tab select Event Type as �
 
 **Upload Document**
 
-![](../../.gitbook/assets/image%20%28218%29.png)
+![](../../.gitbook/assets/image%20%28221%29.png)
 
 After uploading a document
 
@@ -26,7 +26,7 @@ When you click on ‘LMS’ It displays the window to allocate the rooms decidin
 
 After allocating rooms user info can be seen and user can join that room through join button.
 
-![](../../.gitbook/assets/image%20%28236%29.png)
+![](../../.gitbook/assets/image%20%28239%29.png)
 
 ![](../../.gitbook/assets/lms-roo2-2.PNG)
 
@@ -64,11 +64,11 @@ Click on chat option and you can chat with all and can send Chat attachments als
 
 Click on 3 hamburger dot from right top and then click on Record session: start button, before start recording displaying No recording at bottom.
 
-![](../../.gitbook/assets/image%20%28270%29.png)
+![](../../.gitbook/assets/image%20%28273%29.png)
 
 After start recording display Recording in green text at bottom. if admin want to stop recording he can stop from top right **Record session: stop** button
 
-![](../../.gitbook/assets/image%20%28117%29.png)
+![](../../.gitbook/assets/image%20%28118%29.png)
 
 User can disconnect meeting from disconnect button.
 
@@ -82,11 +82,11 @@ If The User Want to Record The Meeting press the recording button and then on th
 
 I Speech Press the chat button and whatever you will speak it will be Visible on the write side of your Screen.
 
-![](../../.gitbook/assets/image%20%28199%29.png)
+![](../../.gitbook/assets/image%20%28202%29.png)
 
 If the User Want To Change The Language Go to settings and Press AI Button
 
-![](../../.gitbook/assets/image%20%28110%29.png)
+![](../../.gitbook/assets/image%20%28111%29.png)
 
 ![](../../.gitbook/assets/image%20%289%29.png)
 
