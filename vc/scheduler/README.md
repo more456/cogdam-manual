@@ -2,17 +2,17 @@
 
 This window shows Upcoming event list wise and calendar wise.User can see LMS meeting,Normal Meetings,Webcast Meetings on this page.
 
-![](../../.gitbook/assets/image%20%28268%29.png)
+![](../../.gitbook/assets/image%20%28270%29.png)
 
 Click on Week to see Week wise meetings.
 
-![](../../.gitbook/assets/image%20%28105%29.png)
+![](../../.gitbook/assets/image%20%28106%29.png)
 
 Click on Day to see Day wise meetings.
 
-![](../../.gitbook/assets/image%20%28207%29.png)
+![](../../.gitbook/assets/image%20%28209%29.png)
 
 Click on list to see List wise meetings.
 
-![](../../.gitbook/assets/image%20%28220%29.png)
+![](../../.gitbook/assets/image%20%28222%29.png)
 
