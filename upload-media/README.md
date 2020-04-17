@@ -14,11 +14,13 @@ Select file for uploading
 
 ![](../.gitbook/assets/select_browse_fill_to_upload%20%281%29.PNG)
 
-Click on Perview button to view your image
+Click on Preview button to view your image
 
 ![](../.gitbook/assets/preview_btn%20%281%29.PNG)
 
 ![](../.gitbook/assets/image%20%289%29.png)
+
+![](../.gitbook/assets/image%20%28174%29.png)
 
 Check Preview
 

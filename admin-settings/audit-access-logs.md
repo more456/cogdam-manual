@@ -6,9 +6,9 @@ Select Users To Get Logging
 
 Select an Id save and close
 
-![](../.gitbook/assets/image%20%28232%29.png)
+![](../.gitbook/assets/image%20%28233%29.png)
 
-![](../.gitbook/assets/image%20%28282%29.png)
+![](../.gitbook/assets/image%20%28283%29.png)
 
 Click to Select date range
 
@@ -16,5 +16,5 @@ Click to Select date range
 
 Put The Start Time and end Time and Close
 
-![](../.gitbook/assets/image%20%28226%29.png)
+![](../.gitbook/assets/image%20%28227%29.png)
 
