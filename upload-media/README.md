@@ -18,6 +18,8 @@ Click on Perview button to view your image
 
 ![](../.gitbook/assets/preview_btn%20%281%29.PNG)
 
+![](../.gitbook/assets/image%20%289%29.png)
+
 Check Preview
 
 ![](../.gitbook/assets/preview.PNG)

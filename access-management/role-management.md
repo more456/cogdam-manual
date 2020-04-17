@@ -2,5 +2,5 @@
 
 We use role management functionality to manage roles and permissions for different users, Different users registered in the application.
 
-![](../.gitbook/assets/image%20%28292%29.png)
+![](../.gitbook/assets/image%20%28293%29.png)
 

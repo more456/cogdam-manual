@@ -2,5 +2,5 @@
 
 Recordings of All Meetings and Webinars
 
-![](../../.gitbook/assets/image%20%28215%29.png)
+![](../../.gitbook/assets/image%20%28216%29.png)
 
