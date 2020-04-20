@@ -1,5 +1,5 @@
 ---
-description: ardware and Software Prerequisite to use Cogdam application
+description: Hardware and Software Prerequisite to use Cogdam application
 ---
 
 # Application Prerequisite
