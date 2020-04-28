@@ -6,5 +6,5 @@ Click on ‘Image Library’ to view all the uploaded image file with their rele
 
 ![](../.gitbook/assets/image%20%28117%29.png)
 
-![](../.gitbook/assets/image%20%28174%29.png)
+![](../.gitbook/assets/image%20%28175%29.png)
 

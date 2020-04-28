@@ -6,5 +6,5 @@ Users can see their profile by clicking on the profile button
 
 User can edit Profile details and change Profile picture.
 
-![](../.gitbook/assets/image%20%28197%29.png)
+![](../.gitbook/assets/image%20%28198%29.png)
 

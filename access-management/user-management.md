@@ -10,11 +10,11 @@ To add new user put name,Email and phone number and save
 
 For Bulk upload file choose file upload and Close
 
-![](../.gitbook/assets/image%20%28319%29.png)
+![](../.gitbook/assets/image%20%28320%29.png)
 
 User Can edit
 
-![](../.gitbook/assets/image%20%28178%29.png)
+![](../.gitbook/assets/image%20%28179%29.png)
 
 User Can change name ,mail id  and mobile number and save
 
