@@ -2,17 +2,17 @@
 
 User can manage all group .Can add new group,edit and delete and can get all details of all groups
 
-![](../.gitbook/assets/image%20%28142%29.png)
+![](../.gitbook/assets/image%20%28143%29.png)
 
 To Add new group put Group Display name and group description
 
-![](../.gitbook/assets/image%20%28188%29.png)
+![](../.gitbook/assets/image%20%28189%29.png)
 
 Add Users To Group
 
-![](../.gitbook/assets/image%20%28208%29.png)
+![](../.gitbook/assets/image%20%28209%29.png)
 
 Add Users Save And Close
 
-![](../.gitbook/assets/image%20%2894%29.png)
+![](../.gitbook/assets/image%20%2895%29.png)
 

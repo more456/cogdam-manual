@@ -6,15 +6,15 @@ We can see all contacts present in application on ‘\#ALL’ tab
 
 we can added contacts from ‘\#ALL’ tab in ‘COGDAM’ tab by click on ‘Add to contact’ icon
 
-![](../.gitbook/assets/image%20%28205%29.png)
+![](../.gitbook/assets/image%20%28206%29.png)
 
 Click on ‘Filter’ button to filter users by Contacts, Groups, All
 
-![](../.gitbook/assets/image%20%28243%29.png)
+![](../.gitbook/assets/image%20%28247%29.png)
 
 With selected contact we can do one-to-one chat
 
-![](../.gitbook/assets/image%20%2840%29.png)
+![](../.gitbook/assets/image%20%2841%29.png)
 
 We can do one-to-one call with selected contact. We can share our screen by clicking on ‘ScreenShare’ option .
 
@@ -22,15 +22,15 @@ We can do one-to-one call with selected contact. We can share our screen by clic
 
 Click on ‘Share’ button to share your screen
 
-![](../.gitbook/assets/image%20%28141%29.png)
+![](../.gitbook/assets/image%20%28142%29.png)
 
 After screen share you can see here the computer screen.
 
-![](../.gitbook/assets/image%20%28143%29.png)
+![](../.gitbook/assets/image%20%28144%29.png)
 
 You can also do chat during ongoing call.
 
-![](../.gitbook/assets/image%20%28271%29.png)
+![](../.gitbook/assets/image%20%28275%29.png)
 
 Click on ‘Add User/Group’ icon and we can add a contact.
 
@@ -38,21 +38,21 @@ Click on ‘Add User/Group’ icon and we can add a contact.
 
 You can search desired contact or group by entering name and then click on ‘Go’ button
 
-![](../.gitbook/assets/image%20%28239%29.png)
+![](../.gitbook/assets/image%20%28243%29.png)
 
 ##  **Create Group**
 
 Click on ‘Add Contatct/Group’ icon then contact type as ‘Group’ then fill in relevant details.
 
-![](../.gitbook/assets/image%20%28270%29.png)
+![](../.gitbook/assets/image%20%28274%29.png)
 
 Click on Add Users button and select the user type
 
-![](../.gitbook/assets/image%20%2871%29.png)
+![](../.gitbook/assets/image%20%2872%29.png)
 
 By clicking on name of user you can add that user.
 
-![](../.gitbook/assets/image%20%28217%29.png)
+![](../.gitbook/assets/image%20%28218%29.png)
 
 Group Created
 
@@ -60,11 +60,11 @@ Group Created
 
 By clicking on group you can see group details.
 
-![](../.gitbook/assets/image%20%28303%29.png)
+![](../.gitbook/assets/image%20%28307%29.png)
 
 We can add new users in a group just by clicking on’+’ icon of selected user.
 
-![](../.gitbook/assets/image%20%28180%29.png)
+![](../.gitbook/assets/image%20%28181%29.png)
 
 We can do group call also by click on ‘Video call’ icon in group window.
 

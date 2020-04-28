@@ -2,11 +2,11 @@
 
 Here you can see the channels that you followed.
 
-![](../.gitbook/assets/image%20%2843%29.png)
+![](../.gitbook/assets/image%20%2844%29.png)
 
 We can unfollow channels by clicking on ‘Unfollow’ button.
 
-![](../.gitbook/assets/image%20%28198%29.png)
+![](../.gitbook/assets/image%20%28199%29.png)
 
 
 

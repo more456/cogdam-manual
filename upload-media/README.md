@@ -20,7 +20,7 @@ Click on Preview button to view your image
 
 ![](../.gitbook/assets/image%20%289%29.png)
 
-![](../.gitbook/assets/image%20%28178%29.png)
+![](../.gitbook/assets/image%20%28179%29.png)
 
 Check Preview
 
