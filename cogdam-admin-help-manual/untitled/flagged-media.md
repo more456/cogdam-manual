@@ -6,5 +6,5 @@
 
 Users can also delete the Flagged media by clicking on the delete option from above 
 
-![](../../.gitbook/assets/image%20%28202%29.png)
+![](../../.gitbook/assets/image%20%28203%29.png)
 
