@@ -10,7 +10,7 @@ User Can Record Video By Clicking On Video Recorder
 
 By Clicking On Start Recording The Recording Will Start
 
-![](.gitbook/assets/image%20%28230%29.png)
+![](.gitbook/assets/image%20%28227%29.png)
 
 ![](.gitbook/assets/image%20%28239%29.png)
 

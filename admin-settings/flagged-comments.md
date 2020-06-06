@@ -2,15 +2,15 @@
 
 User Can Flag in their Existing Comments
 
-![](../.gitbook/assets/image%20%2868%29.png)
+![](../.gitbook/assets/image%20%2852%29.png)
 
 Select A Media and Can Flag
 
-![](../.gitbook/assets/image%20%28286%29.png)
+![](../.gitbook/assets/image%20%28230%29.png)
 
 Close and go back
 
-![](../.gitbook/assets/image%20%28280%29.png)
+![](../.gitbook/assets/image%20%28224%29.png)
 
 
 
