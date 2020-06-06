@@ -4,7 +4,7 @@
 
 ![](../.gitbook/assets/image%20%28208%29.png)
 
-**User Can Set Up The Logo**  
+**User Can Set Up The Logo,Choose the image from the File**  
 
 
 ![](../.gitbook/assets/image%20%28209%29.png)
