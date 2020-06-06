@@ -2,5 +2,5 @@
 
 Users can sign out by clicking on the sign out button
 
-![](.gitbook/assets/image%20%28321%29.png)
+![](.gitbook/assets/image%20%28302%29.png)
 

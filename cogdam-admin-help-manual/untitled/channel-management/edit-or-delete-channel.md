@@ -4,7 +4,7 @@
 
 ![](../../../.gitbook/assets/edit_or_delete_ch.png)
 
-![](../../../.gitbook/assets/image%20%2842%29.png)
+![](../../../.gitbook/assets/image%20%2827%29%20%281%29.png)
 
 
 

@@ -4,17 +4,17 @@
 
 Displays the list of users in the portal with Display name, ID & Usergroups
 
-![](../../.gitbook/assets/image%20%28158%29.png)
+![](../../.gitbook/assets/image%20%2899%29%20%281%29.png)
 
 **Fill user details**
 
 User can fill relevant information in the fields and click save.
 
-![](../../.gitbook/assets/image%20%2830%29.png)
+![](../../.gitbook/assets/image%20%2822%29.png)
 
 **User Created**
 
 A green notification is displayed confirming that the user is created.
 
-![](../../.gitbook/assets/image%20%28157%29.png)
+![](../../.gitbook/assets/image%20%2898%29.png)
 
