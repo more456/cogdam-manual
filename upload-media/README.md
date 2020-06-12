@@ -38,5 +38,32 @@ Click on save to save media file
 
 ![](../.gitbook/assets/save_button.PNG)
 
+Select Video Type  
+
+
+![](../.gitbook/assets/image%20%28213%29.png)
+
+Put The Relevant Informantion And Click Next  
+  
+
+
+![](../.gitbook/assets/image%20%28216%29.png)
+
+Put The URL and Fetch  
+  
+
+
+![](../.gitbook/assets/image%20%28214%29.png)
+
+After Fetching User Can Click On "Skip and Safe" ang Can Save The Video Directly  
+  
+
+
+![](../.gitbook/assets/image%20%28215%29.png)
+
+![](../.gitbook/assets/image%20%28217%29.png)
+
+
+
 
 
