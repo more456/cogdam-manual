@@ -55,7 +55,7 @@ Put The URL and Fetch
 
 ![](../.gitbook/assets/image%20%28214%29.png)
 
-After Fetching User Can Click On "Skip and Safe" ang Can Save The Video Directly  
+After Fetching User Can Click On "Skip and Safe" and Can Save The Video Directly  
   
 
 
