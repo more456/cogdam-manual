@@ -75,15 +75,19 @@ User who is Broadcasting can stop there webinar after click on disconnect button
 
 ![](.gitbook/assets/image%20%2841%29.png)
 
-URL To Use For Survey And Feedback 
+After Webinar Stop Public user display below page
 
 ![](.gitbook/assets/image%20%28236%29.png)
+
+URL To Use For Survey And Feedback 
+
+![](.gitbook/assets/image%20%28242%29.png)
 
 ![](.gitbook/assets/image%20%28225%29.png)
 
 Enable The Chat Bot Link And Put The Whatsapp Link
 
-![](.gitbook/assets/image%20%28249%29.png)
+![](.gitbook/assets/image%20%28250%29.png)
 
 Enable Session Info Media
 
@@ -117,7 +121,7 @@ Join The Webinar and Click Light App Public View
 
 Click On The Survey Tab
 
-![](.gitbook/assets/image%20%28246%29.png)
+![](.gitbook/assets/image%20%28248%29.png)
 
 Fill The Survey Form And Submit
 
@@ -141,9 +145,7 @@ User Can Give Their Feedback and Submit
 
 
 
-After Webinar Stop Public user display below page
 
-![webinar ended](.gitbook/assets/image%20%28150%29%20%281%29.png)
 
 
 
