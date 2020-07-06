@@ -87,7 +87,11 @@ URL To Use For Survey And Feedback
 
 Enable The Chat Bot Link And Put The Whatsapp Link
 
-![](.gitbook/assets/image%20%28258%29.png)
+![](.gitbook/assets/image%20%28259%29.png)
+
+User Can See It Only On Android After Clicking The Link
+
+![](.gitbook/assets/image%20%28256%29.png)
 
 Enable Session Info Media
 
@@ -127,7 +131,7 @@ Join The Webinar and Click Light App Public View
 
 Click On The Survey Tab
 
-![](.gitbook/assets/image%20%28256%29.png)
+![](.gitbook/assets/image%20%28257%29.png)
 
 Fill The Survey Form And Submit
 
