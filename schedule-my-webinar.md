@@ -117,7 +117,7 @@ Go To Custom Background Where User can Upload Image,Videos for Small Screens lik
 
 Choose Approvers Mail Id And Click Next
 
-![](.gitbook/assets/image%20%28254%29.png)
+![](.gitbook/assets/image%20%28262%29.png)
 
 Choose Role To Add Users And Click Next
 
