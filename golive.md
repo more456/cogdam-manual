@@ -1,4 +1,4 @@
-# Golive
+# Live Stream
 
 User can create Golive event by clicking on Golive tab 
 

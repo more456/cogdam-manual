@@ -8,7 +8,7 @@
 * [Login or Existing User Sign up](login-or-existing-user-sign-up/README.md)
   * [Forgot Password](login-or-existing-user-sign-up/forgot-password.md)
 * [Home Page](home-page.md)
-* [Golive](golive.md)
+* [Live Stream](golive.md)
 * [Channels](channels.md)
 * [Schedule My Webinar](schedule-my-webinar.md)
 * [Upload Media](upload-media/README.md)
