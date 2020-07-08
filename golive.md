@@ -1,6 +1,6 @@
 # Live Stream
 
-User can create Golive event by clicking on Golive tab 
+User can stream Live by clicking on Golive tab 
 
 ![](.gitbook/assets/image%20%2839%29%20%281%29.png)
 
