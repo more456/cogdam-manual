@@ -80,7 +80,7 @@ If The User Want to Record The Meeting press the recording button and then on th
 
 ![](../../.gitbook/assets/image%20%2820%29.png)
 
-I Speech Press the chat button and whatever you will speak it will be Visible on the write side of your Screen.
+keep your mic muted and speak something that will be dispalyed on message icon
 
 ![](../../.gitbook/assets/image%20%28143%29%20%281%29.png)
 
