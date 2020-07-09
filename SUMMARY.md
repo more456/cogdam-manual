@@ -29,6 +29,7 @@
     * [LMS Event](vc/scheduler/normal-meeting.md)
     * [Town Hall](vc/scheduler/town-hall.md)
 * [My Account](my-account/README.md)
+  * [My Recordings](my-account/my-recordings.md)
   * [My Profile](my-account/my-profile.md)
   * [My Followings](my-account/my-followings.md)
   * [My Playlist](my-account/my-playlist.md)
