@@ -80,7 +80,7 @@ If The User Want to Record The Meeting press the recording button and then on th
 
 ![](../../.gitbook/assets/image%20%2820%29.png)
 
-keep your mic muted and speak something that will be dispalyed on message icon
+Keep your mic muted and speak something that will be dispalyed on message icon
 
 ![](../../.gitbook/assets/image%20%28143%29%20%281%29.png)
 
