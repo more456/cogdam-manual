@@ -79,7 +79,41 @@ After Webinar Stop Public user display below page
 
 ![](.gitbook/assets/image%20%28250%29.png)
 
+URL To Use For Survey And Feedback
 
+![](.gitbook/assets/image%20%28278%29.png)
+
+![](.gitbook/assets/image%20%28279%29.png)
+
+Enable The Chat Bot Link And Put The Whatsapp Link
+
+![](.gitbook/assets/image%20%28275%29.png)
+
+User Can See It Only On Android After Clicking The Link
+
+![](.gitbook/assets/image%20%28271%29.png)
+
+Enable Session Info Media
+
+![](.gitbook/assets/image%20%28276%29.png)
+
+Choose File and Click to View
+
+![](.gitbook/assets/image%20%28274%29.png)
+
+Click On Manage Media
+
+![](.gitbook/assets/image%20%28272%29.png)
+
+Choose the File
+
+![](.gitbook/assets/image%20%28273%29.png)
+
+Go To Custom Background Where User can Upload Image,Videos for Small Screens likeAndroid And Large Screen For Web As Well
+
+![](.gitbook/assets/image%20%28277%29.png)
+
+Choose Approvers Mail Id And Click Next
 
 ![](.gitbook/assets/image%20%28264%29.png)
 
