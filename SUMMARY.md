@@ -37,6 +37,7 @@
 * [Email Master](email-master.md)
 * [Video Recorder](video-recorder.md)
 * [Admin settings](admin-settings/README.md)
+  * [Pending Set Up](admin-settings/pending-set-up-1.md)
   * [Landing Set Up](admin-settings/landing-set-up.md)
   * [Meeting Bulk Jobs](admin-settings/meeting-bulk-jobs.md)
   * [Pending Set Up](admin-settings/pending-set-up.md)
