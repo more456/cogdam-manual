@@ -8,6 +8,8 @@ When clicks on Golive then Event get started and join now pop up comes on displa
 
 ![](.gitbook/assets/image%20%28200%29%20%281%29.png)
 
+When he joins meeting the pop up generates to ask to starte broadcasting 
+
 ![](.gitbook/assets/image%20%2836%29.png)
 
 Click on share icon to share  link
