@@ -20,7 +20,7 @@ Step 1. You Can Find The Log In Options Here And Click Next
 
 ![](.gitbook/assets/image%20%28284%29.png)
 
-Choose Streaming Appliaction And Submit
+Choose Streaming Appliaction For Cost Set Up And Submit
 
 ![](.gitbook/assets/image%20%28294%29.png)
 
