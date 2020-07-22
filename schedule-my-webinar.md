@@ -12,6 +12,34 @@ Choose type of webinar as Test Webinar
 
 ![](.gitbook/assets/image%20%2862%29.png)
 
+Scedule Your Webinar And Click Next
+
+![](.gitbook/assets/image%20%28291%29.png)
+
+Step 1. You Can Find The Log In Options Here And Click Next
+
+![](.gitbook/assets/image%20%28284%29.png)
+
+Choose Streaming Appliaction And Submit
+
+![](.gitbook/assets/image%20%28292%29.png)
+
+Step 2. Manage Media where you can upload Pre Webinar Images
+
+![](.gitbook/assets/image%20%28289%29.png)
+
+Choose Image From File And Upload And Click Next
+
+![](.gitbook/assets/image%20%28290%29.png)
+
+![](.gitbook/assets/image%20%28285%29.png)
+
+Uploaded Image
+
+![](.gitbook/assets/image%20%28287%29.png)
+
+
+
 
 
 Step 2 : Share your webinar link with users Click on Copy the link gets copied automatically and share copied link with users.
