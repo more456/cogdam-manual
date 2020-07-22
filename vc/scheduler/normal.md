@@ -2,23 +2,23 @@
 
 Click on Create Meeting icon and in ‘Basic Info’ tab select Event Type as ‘Normal meeting’ and fill in relevant info.
 
-![](../../.gitbook/assets/image%20%28287%29.png)
+![](../../.gitbook/assets/image%20%28288%29.png)
 
 After Selected Role and Selected Users get Added then they will be display as below.
 
-![](../../.gitbook/assets/image%20%28297%29.png)
+![](../../.gitbook/assets/image%20%28298%29.png)
 
 When we select User Role as a’ Guest’ then fill in relevant information and click on ‘Add Guest’ button.
 
-![](../../.gitbook/assets/image%20%28295%29.png)
+![](../../.gitbook/assets/image%20%28296%29.png)
 
 After creation of Meeting will be display in notification bar and on calendar.
 
-![](../../.gitbook/assets/image%20%28298%29.png)
+![](../../.gitbook/assets/image%20%28299%29.png)
 
 Click on that meeting notification on calendar will show you ‘Meeting Details’ and ‘User Details’ tab. where you can see meeting as well as user details. Now click on ‘Join’ button to join meeting
 
-![](../../.gitbook/assets/image%20%2894%29%20%281%29.png)
+![](../../.gitbook/assets/image%20%28287%29.png)
 
 You have to click on Call icon to start meeting
 
