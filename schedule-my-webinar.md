@@ -14,29 +14,29 @@ Choose type of webinar as Test Webinar
 
 Scedule Your Webinar And Click Next
 
-![](.gitbook/assets/image%20%28288%29.png)
+![](.gitbook/assets/image%20%28290%29.png)
 
 Step 1. You Can Find The Log In Options Here And Click Next
 
-![](.gitbook/assets/image%20%28284%29.png)
+![](.gitbook/assets/image%20%28285%29.png)
 
 Choose Streaming Appliaction For Cost Set Up And Submit
 
-![](.gitbook/assets/image%20%28294%29.png)
+![](.gitbook/assets/image%20%28298%29.png)
 
 Step 2. Manage Media where you can upload Pre Webinar Images
 
-![](.gitbook/assets/image%20%28290%29.png)
+![](.gitbook/assets/image%20%28294%29.png)
 
 Choose Image From File And Upload And Click Next
 
-![](.gitbook/assets/image%20%28292%29.png)
+![](.gitbook/assets/image%20%28296%29.png)
 
-![](.gitbook/assets/image%20%28285%29.png)
+![](.gitbook/assets/image%20%28288%29.png)
 
 Uploaded Image
 
-![](.gitbook/assets/image%20%28287%29.png)
+![](.gitbook/assets/image%20%28289%29.png)
 
 
 
