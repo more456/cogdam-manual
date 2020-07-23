@@ -52,7 +52,11 @@ In The Calendar And Notification Bar You Can Click On The Sceduled Event And Sta
 
 Copy The Links And Share And Join
 
-![](.gitbook/assets/image%20%28313%29.png)
+![](.gitbook/assets/image%20%28314%29.png)
+
+By Clicking On Advanced Links You Can See More Options
+
+![](.gitbook/assets/image%20%28304%29.png)
 
 Share Meeting URL 
 
@@ -60,32 +64,32 @@ Share Meeting URL
 
 Sign in and Join The Meeting
 
-![](.gitbook/assets/image%20%28309%29.png)
+![](.gitbook/assets/image%20%28310%29.png)
 
 By Copying Link Of Validated Email Or Mobile You can Join The Meeting From Android
 
-![](.gitbook/assets/image%20%28304%29.png)
+![](.gitbook/assets/image%20%28305%29.png)
 
 By Copying Link Of Light App Public View User Can Join Istudio Light
 
-![](.gitbook/assets/image%20%28312%29.png)
-
-![](.gitbook/assets/image%20%28306%29.png)
-
-View Webcast Stats Where You Can Find The Likes ,Dislikes And Views Click This Link
+![](.gitbook/assets/image%20%28313%29.png)
 
 ![](.gitbook/assets/image%20%28308%29.png)
 
-![](.gitbook/assets/image%20%28311%29.png)
+View Webcast Stats Where You Can Find The Likes ,Dislikes And Views Click This Link
+
+![](.gitbook/assets/image%20%28309%29.png)
+
+![](.gitbook/assets/image%20%28312%29.png)
 
 If You Want To View Chats Click On This Link  
 
 
-![](.gitbook/assets/image%20%28310%29.png)
+![](.gitbook/assets/image%20%28311%29.png)
 
 
 
-![](.gitbook/assets/image%20%28305%29.png)
+![](.gitbook/assets/image%20%28306%29.png)
 
 For mobile users to see webinar Scan QR code link is provided
 
