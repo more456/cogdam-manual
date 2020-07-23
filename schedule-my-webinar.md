@@ -52,7 +52,7 @@ In The Calendar And Notification Bar You Can Click On The Sceduled Event And Sta
 
 Copy The Links And Share And Join
 
-![](.gitbook/assets/image%20%28316%29.png)
+![](.gitbook/assets/image%20%28317%29.png)
 
 By Clicking On Advanced Links You Can See More Options
 
@@ -100,6 +100,12 @@ Test Your Mic And System Before You Join
 ![](.gitbook/assets/image%20%28314%29.png)
 
 ![](.gitbook/assets/image%20%28313%29.png)
+
+Click On The Icon At Bottom Right CornerAnd Can Share The Link 
+
+![](.gitbook/assets/image%20%28316%29.png)
+
+
 
 
 
