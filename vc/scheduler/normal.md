@@ -39,12 +39,6 @@ To View Webcast On Public Link Copy This Link And Share
 
 ![](../../.gitbook/assets/image%20%28334%29.png)
 
-Put Employee Id With Email
-
-![](../../.gitbook/assets/image%20%28337%29.png)
-
-![](../../.gitbook/assets/image%20%28331%29.png)
-
 
 
 You have to click on Call icon to start meeting
