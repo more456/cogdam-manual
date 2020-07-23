@@ -48,11 +48,17 @@ Step 2 : Share your webinar link with users Click on Copy the link gets copied a
 
 In The Calendar And Notification Bar You Can Click On The Sceduled Event And Start The Webinar
 
-![](.gitbook/assets/image%20%28301%29.png)
+![](.gitbook/assets/image%20%28303%29.png)
 
 Copy The Links And Share And Join
 
-![](.gitbook/assets/image%20%28303%29.png)
+![](.gitbook/assets/image%20%28304%29.png)
+
+Share Meeting URL 
+
+![](.gitbook/assets/image%20%28301%29.png)
+
+
 
 By Cl
 
