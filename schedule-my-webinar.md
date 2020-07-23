@@ -20,6 +20,10 @@ Step 1. You Can Find The Log In Options Here And Click Next
 
 ![](.gitbook/assets/image%20%28285%29.png)
 
+There Are More Options Where You Can Pull Others To Vc And You Will View Full Screen
+
+![](.gitbook/assets/image%20%28321%29.png)
+
 Choose Streaming Appliaction For Cost Set Up And Submit
 
 ![](.gitbook/assets/image%20%28300%29.png)
@@ -52,7 +56,7 @@ In The Calendar And Notification Bar You Can Click On The Sceduled Event And Sta
 
 Copy The Links And Share And Join
 
-![](.gitbook/assets/image%20%28325%29.png)
+![](.gitbook/assets/image%20%28326%29.png)
 
 By Clicking On Advanced Links You Can See More Options
 
@@ -72,7 +76,7 @@ By Copying Link Of Validated Email Or Mobile You can Join The Meeting From Andro
 
 By Copying Link Of Light App Public View User Can Join Istudio Light
 
-![](.gitbook/assets/image%20%28322%29.png)
+![](.gitbook/assets/image%20%28325%29.png)
 
 ![](.gitbook/assets/image%20%28313%29.png)
 
@@ -97,7 +101,7 @@ For mobile users to see webinar Scan QR code link is provided
 
 Test Your Mic And System Before You Join
 
-![](.gitbook/assets/image%20%28321%29.png)
+![](.gitbook/assets/image%20%28322%29.png)
 
 ![](.gitbook/assets/image%20%28318%29.png)
 
@@ -113,7 +117,7 @@ Click  button to Start Webinar
 
 ![](.gitbook/assets/image%20%28319%29.png)
 
-![](.gitbook/assets/image%20%28326%29.png)
+![](.gitbook/assets/image%20%28327%29.png)
 
 ![](.gitbook/assets/image%20%2866%29.png)
 
