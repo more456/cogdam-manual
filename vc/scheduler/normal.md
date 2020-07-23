@@ -31,13 +31,13 @@ You Can Share Meeting URL By Clicking On This Link
 
 You Can Share The Meeting URL With The Common Password Or Token Which You Will Set
 
-![](../../.gitbook/assets/image%20%28329%29.png)
+![](../../.gitbook/assets/image%20%28330%29.png)
 
 ![](../../.gitbook/assets/image%20%28304%29.png)
 
 To View Webcast On Public Link Copy This Link And Share
 
-![](../../.gitbook/assets/image%20%28332%29.png)
+![](../../.gitbook/assets/image%20%28333%29.png)
 
 
 
