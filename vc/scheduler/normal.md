@@ -37,7 +37,13 @@ You Can Share The Meeting URL With The Common Password Or Token Which You Will S
 
 To View Webcast On Public Link Copy This Link And Share
 
-![](../../.gitbook/assets/image%20%28333%29.png)
+![](../../.gitbook/assets/image%20%28334%29.png)
+
+Put Employee Id With Email
+
+![](../../.gitbook/assets/image%20%28337%29.png)
+
+![](../../.gitbook/assets/image%20%28331%29.png)
 
 
 
