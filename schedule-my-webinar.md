@@ -52,7 +52,7 @@ In The Calendar And Notification Bar You Can Click On The Sceduled Event And Sta
 
 Copy The Links And Share And Join
 
-![](.gitbook/assets/image%20%28320%29.png)
+![](.gitbook/assets/image%20%28322%29.png)
 
 By Clicking On Advanced Links You Can See More Options
 
@@ -64,32 +64,32 @@ Share Meeting URL
 
 Sign in and Join The Meeting
 
-![](.gitbook/assets/image%20%28312%29.png)
+![](.gitbook/assets/image%20%28313%29.png)
 
 By Copying Link Of Validated Email Or Mobile You can Join The Meeting From Android
 
-![](.gitbook/assets/image%20%28308%29.png)
+![](.gitbook/assets/image%20%28309%29.png)
 
 By Copying Link Of Light App Public View User Can Join Istudio Light
 
-![](.gitbook/assets/image%20%28318%29.png)
-
-![](.gitbook/assets/image%20%28310%29.png)
-
-View Webcast Stats Where You Can Find The Likes ,Dislikes And Views Click This Link
+![](.gitbook/assets/image%20%28319%29.png)
 
 ![](.gitbook/assets/image%20%28311%29.png)
 
-![](.gitbook/assets/image%20%28314%29.png)
+View Webcast Stats Where You Can Find The Likes ,Dislikes And Views Click This Link
+
+![](.gitbook/assets/image%20%28312%29.png)
+
+![](.gitbook/assets/image%20%28315%29.png)
 
 If You Want To View Chats Click On This Link  
 
 
-![](.gitbook/assets/image%20%28313%29.png)
+![](.gitbook/assets/image%20%28314%29.png)
 
 
 
-![](.gitbook/assets/image%20%28309%29.png)
+![](.gitbook/assets/image%20%28310%29.png)
 
 For mobile users to see webinar Scan QR code link is provided
 
@@ -97,13 +97,13 @@ For mobile users to see webinar Scan QR code link is provided
 
 Test Your Mic And System Before You Join
 
-![](.gitbook/assets/image%20%28317%29.png)
+![](.gitbook/assets/image%20%28318%29.png)
 
-![](.gitbook/assets/image%20%28315%29.png)
+![](.gitbook/assets/image%20%28316%29.png)
 
 Click On The Icon At Bottom Right CornerAnd Can Share The Link To Public User
 
-![](.gitbook/assets/image%20%28319%29.png)
+![](.gitbook/assets/image%20%28320%29.png)
 
 
 
@@ -111,9 +111,9 @@ Click On The Icon At Bottom Right CornerAnd Can Share The Link To Public User
 
 Click  button to Start Webinar
 
-![](.gitbook/assets/image%20%28316%29.png)
+![](.gitbook/assets/image%20%28317%29.png)
 
-![](.gitbook/assets/image%20%28321%29.png)
+![](.gitbook/assets/image%20%28323%29.png)
 
 ![](.gitbook/assets/image%20%2866%29.png)
 
@@ -128,29 +128,23 @@ User can FullScreen there page after click on top right fullscreen button
 ![](.gitbook/assets/image%20%283%29%20%281%29.png)
 
   
-Click on Top Right button displying different button like Reload to refresh page,Low Bandwidth ,Normal Bandwidth,High Bandwidth.
 
-![](.gitbook/assets/image%20%28144%29.png)
 
 Click on  3 dots and click on Picture in picture by selecting this you can see webinar by doing your other works like you can nevigate to other browser also.
 
 ![](.gitbook/assets/image%20%2876%29.png)
 
-Picture in Picture Mode Displying like below to exit this mode user can click on Exit Picture in Picture mode
-
 ![](.gitbook/assets/image%20%28139%29.png)
 
 User Who are broadcasting can share there screen to all users who are watching live webcast. He can start screenshare in one click from top Screenshare button or by clicking on bottom ScreenShare button you need to click on Start Sharing Screen. only prerequisite is Screenshare extension should be installed.
 
-![](.gitbook/assets/image%20%28129%29%20%281%29.png)
+![](.gitbook/assets/image%20%28321%29.png)
 
 Click on Share button to share your Screen
 
-![](.gitbook/assets/image%20%2896%29.png)
+![](.gitbook/assets/image%20%28308%29.png)
 
-After Share Screen Public user Display Screenshare on top left Corner of there page 
 
-![](.gitbook/assets/image%20%2847%29%20%282%29.png)
 
 User Can take Screenshare at Center of page after clicking on Screenshare 
 
