@@ -22,7 +22,7 @@ Step 1. You Can Find The Log In Options Here And Click Next
 
 There Are More Options Where You Can Pull Others To Vc And You Will View Full Screen
 
-![](.gitbook/assets/image%20%28337%29.png)
+![](.gitbook/assets/image%20%28339%29.png)
 
 Choose Streaming Appliaction For Cost Set Up And Submit
 
@@ -56,7 +56,7 @@ In The Calendar And Notification Bar You Can Click On The Sceduled Event And Sta
 
 Copy The Links And Share And Join
 
-![](.gitbook/assets/image%20%28342%29.png)
+![](.gitbook/assets/image%20%28344%29.png)
 
 By Clicking On Advanced Links You Can See More Options
 
@@ -80,7 +80,7 @@ By Copying Link Of Light App Public View User Can Join Istudio Light
 
 Put Employee Id With Email
 
-![](.gitbook/assets/image%20%28341%29.png)
+![](.gitbook/assets/image%20%28343%29.png)
 
 ![](.gitbook/assets/image%20%28327%29.png)
 
@@ -88,12 +88,12 @@ View Webcast Stats Where You Can Find The Likes ,Dislikes And Views Click This L
 
 ![](.gitbook/assets/image%20%28314%29.png)
 
-![](.gitbook/assets/image%20%28330%29.png)
+![](.gitbook/assets/image%20%28332%29.png)
 
 If You Want To View Chats Click On This Link  
 
 
-![](.gitbook/assets/image%20%28329%29.png)
+![](.gitbook/assets/image%20%28331%29.png)
 
 
 
@@ -105,9 +105,9 @@ For mobile users to see webinar Scan QR code link is provided
 
 Test Your Mic And System Before You Join
 
-![](.gitbook/assets/image%20%28340%29.png)
+![](.gitbook/assets/image%20%28342%29.png)
 
-![](.gitbook/assets/image%20%28331%29.png)
+![](.gitbook/assets/image%20%28333%29.png)
 
 Click On The Icon At Bottom Right CornerAnd Can Share The Link To Public User
 
@@ -119,9 +119,9 @@ Click On The Icon At Bottom Right CornerAnd Can Share The Link To Public User
 
 Click  button to Start Webinar
 
-![](.gitbook/assets/image%20%28334%29.png)
+![](.gitbook/assets/image%20%28336%29.png)
 
-![](.gitbook/assets/image%20%28343%29.png)
+![](.gitbook/assets/image%20%28345%29.png)
 
 ![](.gitbook/assets/image%20%2866%29.png)
 
@@ -132,7 +132,7 @@ You Can See All The Options By Clicking On Three Dot Elipse Button
 
 You Can Chat,Message And Can Raise Hand To Say Something By Clicking On The Three Options At The Bottom Left Corner
 
-![](.gitbook/assets/image%20%28335%29.png)
+![](.gitbook/assets/image%20%28337%29.png)
 
 While The Live Streaming Is Going On You Can See The Option Streaming Blinking
 

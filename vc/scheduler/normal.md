@@ -31,17 +31,17 @@ You Can Share Meeting URL By Clicking On This Link
 
 You Can Share The Meeting URL With The Common Password Or Token Which You Will Set
 
-![](../../.gitbook/assets/image%20%28332%29.png)
+![](../../.gitbook/assets/image%20%28334%29.png)
 
 ![](../../.gitbook/assets/image%20%28304%29.png)
 
 To View Webcast On Public Link Copy This Link And Share
 
-![](../../.gitbook/assets/image%20%28336%29.png)
+![](../../.gitbook/assets/image%20%28338%29.png)
 
 Check Your Mic,Camera And System Before Joining
 
-![](../../.gitbook/assets/image%20%28339%29.png)
+![](../../.gitbook/assets/image%20%28341%29.png)
 
 
 
@@ -59,7 +59,7 @@ Join Meeting With Below URL and Token
 
 Now turn your ‘VC’ ON
 
-![](../../.gitbook/assets/image%20%2877%29%20%281%29.png)
+![](../../.gitbook/assets/image%20%28329%29.png)
 
 If you want connect with Viewer then you need to turn ON ‘VC’ of Viewer. To turn it ON go to ‘Admin’ and click on ‘VC Control’.
 
