@@ -18,32 +18,44 @@ After creation of Meeting will be display in notification bar and on calendar.
 
 Click on that meeting notification on calendar will show you ‘Meeting Details’ and ‘User Details’ tab. where you can see meeting as well as user details. Now click on ‘Join’ button to join meeting
 
-![](../../.gitbook/assets/image%20%28313%29.png)
+![](../../.gitbook/assets/image%20%28316%29.png)
 
 Click On Advanced Links And Can See More Options
 
-![](../../.gitbook/assets/image%20%28305%29.png)
+![](../../.gitbook/assets/image%20%28309%29.png)
 
 You Can Share Meeting URL By Clicking On This Link  
 
 
-![](../../.gitbook/assets/image%20%28320%29.png)
+![](../../.gitbook/assets/image%20%28322%29.png)
 
 You Can Share The Meeting URL With The Common Password Or Token Which You Will Set
 
-![](../../.gitbook/assets/image%20%28330%29.png)
+![](../../.gitbook/assets/image%20%28332%29.png)
 
 ![](../../.gitbook/assets/image%20%28304%29.png)
 
 To View Webcast On Public Link Copy This Link And Share
 
-![](../../.gitbook/assets/image%20%28334%29.png)
+![](../../.gitbook/assets/image%20%28336%29.png)
+
+Check Your Mic,Camera And System Before Joining
+
+![](../../.gitbook/assets/image%20%28339%29.png)
 
 
 
 You have to click on Call icon to start meeting
 
 ![](../../.gitbook/assets/image%20%28112%29%20%281%29.png)
+
+Click Allow To Join
+
+![](../../.gitbook/assets/image%20%28321%29.png)
+
+Join Meeting With Below URL and Token
+
+![](../../.gitbook/assets/image%20%28305%29.png)
 
 Now turn your ‘VC’ ON
 
