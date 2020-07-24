@@ -23,6 +23,14 @@ After creation of Meeting will be display in notification bar and on calendar.
 
 ![](../../.gitbook/assets/image%20%28364%29.png)
 
+Click On Week And Will Show The Day And Date
+
+![](../../.gitbook/assets/image%20%28384%29.png)
+
+Click On Day Will Show You The Day The Meeting Is Created
+
+![](../../.gitbook/assets/image%20%28375%29.png)
+
 Click on that meeting notification on calendar will show you ‘Meeting Details’ and ‘User Details’ tab. where you can see meeting as well as user details. Now click on ‘Join’ button to join meeting
 
 ![](../../.gitbook/assets/image%20%28357%29.png)
