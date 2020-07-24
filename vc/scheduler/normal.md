@@ -46,15 +46,15 @@ To Add Multiple Members Click On Bulk And Download The File
 After Downloading Upload The File And Save  
 
 
-![](../../.gitbook/assets/image%20%28359%29.png)
+![](../../.gitbook/assets/image%20%28362%29.png)
 
 You Can Add The Details In The Downloaded Sheet
 
-![](../../.gitbook/assets/image%20%28360%29.png)
+![](../../.gitbook/assets/image%20%28363%29.png)
 
 the Meeting Notification Will Be There On Calendar.Click And Join Meeting
 
-![](../../.gitbook/assets/image%20%28363%29.png)
+![](../../.gitbook/assets/image%20%28368%29.png)
 
 Check Your Mic,Camera And System Before Joining
 

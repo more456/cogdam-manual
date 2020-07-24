@@ -1,16 +1,23 @@
 # Webcast Event
 
-Click on Create Meeting icon and in ‘Basic Info’ tab select Event Type as ‘Webcast Event’ and fill in relevant info.
+Click on Create Meeting icon and in ‘Basic Info’ tab select Event Type as ‘Webcast Event’ and fill in relevant info And Click Next
 
-![](../../.gitbook/assets/image%20%289%29%20%281%29.png)
+![](../../.gitbook/assets/image%20%28358%29.png)
+
+![](../../.gitbook/assets/image%20%28366%29.png)
+
+Choose Role To Add User  
+
+
+![](../../.gitbook/assets/image%20%28367%29.png)
 
 After Selected Role and Selected Users get Added then they will be display as below.
 
-![](../../.gitbook/assets/12.png)
+![](../../.gitbook/assets/image%20%28360%29.png)
 
 When we select User Role as a’ Guest’ then fill in relevant information and click on ‘Add Guest’ button.
 
-![](../../.gitbook/assets/13.png)
+![](../../.gitbook/assets/image%20%28359%29.png)
 
 After creation of Meeting will be display in notification bar and on calendar.
 
