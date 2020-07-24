@@ -2,28 +2,28 @@
 
 You Can Create A New Event By Clicking On Create New Event Tab
 
-![](.gitbook/assets/image%20%28377%29.png)
+![](.gitbook/assets/image%20%28382%29.png)
 
 Fill The Relevant Information And Click Next
 
-![](.gitbook/assets/image%20%28379%29.png)
+![](.gitbook/assets/image%20%28385%29.png)
 
 Click On Create Meeting Tab
 
-![](.gitbook/assets/image%20%28378%29.png)
+![](.gitbook/assets/image%20%28384%29.png)
 
 Create Meeting And Save
 
-![](.gitbook/assets/image%20%28376%29.png)
+![](.gitbook/assets/image%20%28381%29.png)
 
 Choose The Channel And Next  
 
 
-![](.gitbook/assets/image%20%28375%29.png)
+![](.gitbook/assets/image%20%28380%29.png)
 
 Assign Group And Save
 
-![](.gitbook/assets/image%20%28374%29.png)
+![](.gitbook/assets/image%20%28378%29.png)
 
 When clicks on Golive then Event get started and join now pop up comes on display of user
 
