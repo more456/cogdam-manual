@@ -39,6 +39,15 @@ To View Webcast On Public Link Copy This Link And Share
 
 ![](../../.gitbook/assets/image%20%28347%29.png)
 
+To Add Multiple Members Click On Bulk And Download The File
+
+![](../../.gitbook/assets/image%20%28357%29.png)
+
+After Downloading Upload The File And Save  
+
+
+![](../../.gitbook/assets/image%20%28359%29.png)
+
 Check Your Mic,Camera And System Before Joining
 
 ![](../../.gitbook/assets/image%20%28351%29.png)
