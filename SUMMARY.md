@@ -24,7 +24,7 @@
   * [Interviewers](hr/untitled-3.md)
   * [Schedule Interviews](hr/untitled-2.md)
   * [My Interviews](hr/untitled-1.md)
-  * [Untitled](hr/untitled.md)
+  * [HR Interview Management](hr/untitled.md)
 * [VC](vc/README.md)
   * [Contact](vc/contact.md)
   * [Scheduler](vc/scheduler/README.md)
