@@ -90,8 +90,6 @@ User Can Share A Streaming Service Video
 
 ![](../../.gitbook/assets/image%20%28322%29.png)
 
-![](../../.gitbook/assets/image%20%28356%29.png)
-
 To share the link User can scan the QR Code
 
 ![](../../.gitbook/assets/image%20%28313%29.png)
