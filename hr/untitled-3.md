@@ -2,5 +2,5 @@
 
 List of Interviewers
 
-![](../.gitbook/assets/image%20%28420%29.png)
+![](../.gitbook/assets/image%20%28426%29.png)
 

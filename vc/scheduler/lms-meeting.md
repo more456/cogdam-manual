@@ -65,25 +65,55 @@ Single user link feed
 
 ![](../../.gitbook/assets/image%20%28136%29%20%281%29.png)
 
-Single user screenshare feed
+![](../../.gitbook/assets/image%20%28442%29.png)
 
-![](../../.gitbook/assets/microsoftteams-image-3.png)
+The viewer will get broadcast when streaming status is shown in the bottom links and after screen share is shared then status will change .
 
-Public link view feed
+![](../../.gitbook/assets/image%20%28446%29.png)
 
-![](../../.gitbook/assets/image%20%28148%29.png)
+User can share the link with other users to view the webcast .
 
-Public link screenshare feed
+![](../../.gitbook/assets/image%20%28403%29.png)
 
-![](../../.gitbook/assets/microsoftteams-image-4.png)
-
-If The User Want To Record The Meeting Press The button marked
-
-![](../../.gitbook/assets/image%20%2839%29.png)
-
-User Can Chat while meeting is going on
-
-![](../../.gitbook/assets/image%20%28243%29.png)
+Click On Advanced Link And Can See More Options
 
 
+
+With this copied link user can login into the application with respective application registered credentials and can view the webcast.
+
+![](../../.gitbook/assets/image%20%28438%29.png)
+
+![](../../.gitbook/assets/image%20%28396%29.png)
+
+Users can also share the links  From The Meeting Details
+
+![](../../.gitbook/assets/image%20%28408%29.png)
+
+Users can also share the links from scan qr code icon. click on the icon present in bottom right corner or present in settings page
+
+
+
+![](../../.gitbook/assets/image%20%28434%29.png)
+
+User Can See the options by clicking on three dot Elipse Button  given below
+
+![](../../.gitbook/assets/image%20%28474%29.png)
+
+User can Chat ,share the screen and raise hand
+
+![](../../.gitbook/assets/image%20%28472%29.png)
+
+Start The Webcast by Clicking This Icon
+
+![](../../.gitbook/assets/image%20%28504%29.png)
+
+![](../../.gitbook/assets/image%20%28404%29.png)
+
+Users can also share the links From Meeting Details
+
+![](../../.gitbook/assets/image%20%28499%29.png)
+
+Join Meeting With URL And Token
+
+![](../../.gitbook/assets/image%20%28411%29.png)
 
