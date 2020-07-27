@@ -23,7 +23,7 @@
   * [Dashboard](hr/dashboard.md)
   * [Interviewers](hr/untitled-3.md)
   * [Schedule Interviews](hr/untitled-2.md)
-  * [Untitled](hr/untitled-1.md)
+  * [My Interviews](hr/untitled-1.md)
   * [Untitled](hr/untitled.md)
 * [VC](vc/README.md)
   * [Contact](vc/contact.md)
