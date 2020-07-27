@@ -22,7 +22,7 @@
 * [HR](hr/README.md)
   * [Dashboard](hr/dashboard.md)
   * [Interviewers](hr/untitled-3.md)
-  * [Untitled](hr/untitled-2.md)
+  * [Schedule Interviews](hr/untitled-2.md)
   * [Untitled](hr/untitled-1.md)
   * [Untitled](hr/untitled.md)
 * [VC](vc/README.md)
