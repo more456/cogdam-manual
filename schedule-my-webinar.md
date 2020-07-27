@@ -86,7 +86,7 @@ User can add number viewer according the requirement
 
 User an also increase or decrease webcast time by clicking +/- button
 
-![](.gitbook/assets/image%20%28441%29.png)
+![](.gitbook/assets/image%20%28442%29.png)
 
 After set up it will show final cost below
 
@@ -96,7 +96,7 @@ By clicking on more option user will get the option to add feedback and survey U
 
 ![](.gitbook/assets/image%20%28424%29.png)
 
-![](.gitbook/assets/image%20%28442%29.png)
+![](.gitbook/assets/image%20%28443%29.png)
 
 User can add ChatBot link for android by by adding this link user will create whats-group
 
@@ -144,7 +144,7 @@ Click on join button
 
 User can edit the webinar by click on edit button
 
-![](.gitbook/assets/image%20%28407%29.png)
+![](.gitbook/assets/image%20%28440%29.png)
 
 You can share Cogdam lite link below option to other user 
 
