@@ -8,6 +8,16 @@ This shows homepage of application. On home page user can see Featured videos, L
 
 ![](.gitbook/assets/homepage.PNG)
 
+Click The Tab On Above Right Corner And You Can See The Upcoming Events Or The Sceduled MeetingIn The Calendar
+
+![](.gitbook/assets/image%20%28508%29.png)
+
+Click The Arrow Icon On The Right Corner Above And Can Upload New Events
+
+![](.gitbook/assets/image%20%28509%29.png)
+
+![](.gitbook/assets/image%20%28507%29.png)
+
 
 
 
