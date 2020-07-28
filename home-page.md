@@ -12,7 +12,7 @@ Click The Tab On Above Right Corner And You Can See The Upcoming Events Or The S
 
 ![](.gitbook/assets/image%20%28508%29.png)
 
-Click The Arrow Icon On The Right Corner Above And Can Upload New Events
+Click The Arrow Icon On The Right Corner Above And Can Upload New Videos
 
 ![](.gitbook/assets/image%20%28509%29.png)
 
