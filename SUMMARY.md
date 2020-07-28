@@ -5,8 +5,6 @@
   * [Application Prerequisite](about-cogdam/application-prerequisite.md)
 * [What’s in the box](whats-in-the-box.md)
 * [License](license.md)
-* [Login or Existing User Sign up](login-or-existing-user-sign-up/README.md)
-  * [Forgot Password](login-or-existing-user-sign-up/forgot-password.md)
 * [Home Page](home-page.md)
 * [Live Stream](golive.md)
 * [Channels](channels.md)
