@@ -12,7 +12,6 @@
 * [Channels](channels.md)
 * [Schedule My Webinar](schedule-my-webinar.md)
 * [Upload Media](upload-media/README.md)
-  * [Production webinar](upload-media/production-webinar.md)
   * [Pending for Approve](upload-media/pending-for-approve.md)
 * [Library](library/README.md)
   * [Video Library](library/video-library.md)
