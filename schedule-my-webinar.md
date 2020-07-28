@@ -1,9 +1,3 @@
----
-description: >-
-  There are 2 types of Webinar first one is Test Webinar and second one is
-  Production Webinar
----
-
 # Schedule My Webinar
 
 This tab provides three steps to start your webinar
