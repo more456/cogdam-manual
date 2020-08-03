@@ -20,17 +20,7 @@ We can do one-to-one call with selected contact. We can share our screen by clic
 
 ![](../.gitbook/assets/image%20%2811%29%20%281%29.png)
 
-Click on ‘Share’ button to share your screen
 
-![](../.gitbook/assets/image%20%2890%29.png)
-
-After screen share you can see here the computer screen.
-
-![](../.gitbook/assets/image%20%2891%29.png)
-
-You can also do chat during ongoing call.
-
-![](../.gitbook/assets/image%20%28176%29.png)
 
 Click on ‘Add User/Group’ icon and we can add a contact.
 
