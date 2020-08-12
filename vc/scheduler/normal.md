@@ -108,6 +108,11 @@ Click On Ispeech So Whatever You Will Speak Will Be There On The Chatbox
 
 ![](../../.gitbook/assets/image%20%28319%29.png)
 
+Click The 3 elipse button of the top right and you can do the Recording,Live Streaming and Disconnect the meeting  
+
+
+![](../../.gitbook/assets/image%20%28510%29.png)
+
 If the User Want To Change The Language Go to settings and Press AI Button
 
 ![](../../.gitbook/assets/image%20%2880%29.png)
