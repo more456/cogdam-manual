@@ -6,7 +6,7 @@ This window shows Upcoming event list wise and calendar wise.User can see LMS me
 
 Click on Week to see Week wise meetings.
 
-![](../../.gitbook/assets/image%20%28531%29.png)
+![](../../.gitbook/assets/image%20%28532%29.png)
 
 Click on Day to see Day wise meetings.
 

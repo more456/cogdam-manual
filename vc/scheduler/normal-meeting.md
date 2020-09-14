@@ -54,5 +54,10 @@ Click on share your screen option icon you can share your screen.
 
 ![](../../.gitbook/assets/image%20%28520%29.png)
 
+Click on LMS  
+
+
+![](../../.gitbook/assets/image%20%28530%29.png)
+
 
 
