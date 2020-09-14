@@ -25,7 +25,6 @@
 * [VC](vc/README.md)
   * [Contact](vc/contact.md)
   * [Scheduler](vc/scheduler/README.md)
-    * [My Recordings](vc/scheduler/my-recordings.md)
     * [Normal Meeting](vc/scheduler/normal.md)
     * [Webcast Event](vc/scheduler/lms-meeting.md)
     * [LMS Event](vc/scheduler/normal-meeting.md)
