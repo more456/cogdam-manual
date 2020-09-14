@@ -43,9 +43,9 @@ Share Meeting URL
 
 ![](../../.gitbook/assets/image%20%28368%29.png)
 
-![](../../.gitbook/assets/image%20%28362%29.png)
+User gets join now popup
 
-User gets join now popup when he joins with webcam
+p when he joins with webcam
 
 {% hint style="info" %}
 Consider Webinar Image as user feed and screenshare also
