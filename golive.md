@@ -45,7 +45,7 @@ Goilve Single user screenshare feed
 
 Golive Public link view feed
 
-![](.gitbook/assets/image%20%28148%29.png)
+![](.gitbook/assets/image%20%28533%29.png)
 
 Goilve Public link screenshare feed
 
