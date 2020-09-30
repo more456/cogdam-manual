@@ -113,7 +113,7 @@ Users can also share the links From Meeting Details
 
 ![](../../.gitbook/assets/image%20%28499%29.png)
 
-Join Meeting With URL And Token
+Join Webcast Meeting
 
-![](../../.gitbook/assets/image%20%28411%29.png)
+![](../../.gitbook/assets/image%20%28536%29.png)
 
