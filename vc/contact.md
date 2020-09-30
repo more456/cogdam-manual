@@ -14,7 +14,7 @@ Click on ‘Filter’ button to filter users by Contacts, Groups, All
 
 With selected contact we can do one-to-one chat
 
-![](../.gitbook/assets/image%20%2826%29.png)
+![](../.gitbook/assets/image%20%28537%29.png)
 
 We can do one-to-one call with selected contact. We can share our screen by clicking on ‘ScreenShare’ option .
 
@@ -24,7 +24,7 @@ We can do one-to-one call with selected contact. We can share our screen by clic
 
 Click on ‘Add User/Group’ icon and we can add a contact.
 
-![](../.gitbook/assets/image%20%288%29.png)
+![](../.gitbook/assets/image%20%28534%29.png)
 
 You can search desired contact or group by entering name and then click on ‘Go’ button
 
@@ -34,11 +34,11 @@ You can search desired contact or group by entering name and then click on ‘Go
 
 Click on ‘Add Contatct/Group’ icon then contact type as ‘Group’ then fill in relevant details.
 
-![](../.gitbook/assets/image%20%28175%29%20%281%29.png)
+![](../.gitbook/assets/image%20%28536%29.png)
 
 Click on Add Users button and select the user type
 
-![](../.gitbook/assets/image%20%2843%29%20%281%29.png)
+![](../.gitbook/assets/image%20%28535%29.png)
 
 By clicking on name of user you can add that user.
 
