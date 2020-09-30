@@ -37,7 +37,7 @@ Click on that meeting notification on calendar will show you â€˜Meeting Detailsâ
 
 Click On Advanced Links And Can See More Options
 
-![](../../.gitbook/assets/image%20%28373%29.png)
+![](../../.gitbook/assets/image%20%28535%29.png)
 
 Share Meeting URL
 
