@@ -196,7 +196,7 @@ After Disconnecting The Meeting The User Can See a Pop Up Coming To Give A Feedb
 
 
 
-User Can Give Their Feedback and Submit
+
 
 ![](.gitbook/assets/image%20%28236%29.png)
 
