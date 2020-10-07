@@ -1,6 +1,6 @@
 # Flagged Media
 
-User can flag in appropriate medias by clicking on the media to be flagged
+ User Can See The Medias Which Has Been Flagged
 
 ![](../.gitbook/assets/image%20%2843%29.png)
 
