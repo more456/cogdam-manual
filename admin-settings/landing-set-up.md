@@ -8,7 +8,7 @@ Customize the appearance of your account with your company colors and logo.
 
  Here your can setup your landing page or you can change this later in your admin menu
 
-![](../.gitbook/assets/image%20%28543%29.png)
+![](../.gitbook/assets/image%20%28544%29.png)
 
 Share customize template with infinite participants
 
