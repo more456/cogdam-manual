@@ -4,7 +4,7 @@ Click on schedule interview tab and then this page will open and from here user 
 
 ![](../.gitbook/assets/image%20%28476%29.png)
 
-Select New Candidates and Choose Roles to add Users
+Select interview candidate from the drop down and fill all the essentials details and add candidate from add candidate button
 
 ![](../.gitbook/assets/image%20%28498%29.png)
 
