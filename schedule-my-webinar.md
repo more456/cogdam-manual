@@ -56,7 +56,7 @@ After that click on next button
 
 User can set Webinar logo, Webinar error image,Pre-Webinar image,Post webinar image in manage media
 
-![](.gitbook/assets/image%20%28415%29.png)
+![](.gitbook/assets/wwwww.png)
 
 User can set Custom Background image,video
 
